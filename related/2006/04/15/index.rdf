@@ -1,0 +1,3126 @@
+<?xml version='1.0' encoding='ISO-8859-1'?><rdf:RDF xmlns:nyt='http://aaronland.info/nytimes#' xmlns:geo='http://www.w3.org/2003/01/geo/wgs84_pos#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:skos='http://www.w3.org/2004/02/skos/core#' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:foaf='http://xmlns.com/foaf/0.1/' xmlns:dc='http://purl.org/dc/elements/1.1/' xmlns:del='http://del.icio.us/'>
+  <rdf:Description rdf:about='http://aaronland.info/nytimes/related/2006/04/15/index.rdf'>
+    <dc:title>Who&apos;s on first at the New York Times</dc:title>
+    <dc:date>2006-04-15</dc:date>
+    <dc:created>2006-04-15T04:45:05-07:00</dc:created>
+  </rdf:Description>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/c/classical-music'>
+    <skos:prefLabel>Classical Music</skos:prefLabel>
+    <skos:altLabel>classical-music</skos:altLabel>
+    <skos:altLabel>classicalmusic</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/d/dancing' />
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/b/balanchine-george' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/classicalmusic'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/c/classical-music' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/c/citizenship'>
+    <skos:prefLabel>Citizenship</skos:prefLabel>
+    <skos:altLabel>citizenship</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/i/immigration-and-refugees' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/d/deportation' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/citizenship'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/c/citizenship' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/m/marathon-running'>
+    <skos:prefLabel>Marathon Running</skos:prefLabel>
+    <skos:altLabel>marathon-running</skos:altLabel>
+    <skos:altLabel>marathonrunning</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:place rdf:resource='http://aaronland.info/nytimes/knows/places/b/boston-mass' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/marathonrunning'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/m/marathon-running' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/m/mayors'>
+    <skos:prefLabel>Mayors</skos:prefLabel>
+    <skos:altLabel>mayors</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/c/city-hall' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/mayors'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/m/mayors' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/m/motion-pictures'>
+    <skos:prefLabel>Motion Pictures</skos:prefLabel>
+    <skos:altLabel>motion-pictures</skos:altLabel>
+    <skos:altLabel>motionpictures</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/a/art' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/m/museums' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/motionpictures'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/m/motion-pictures' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/b/bombs-and-explosives'>
+    <skos:prefLabel>Bombs and Explosives</skos:prefLabel>
+    <skos:altLabel>bombs-and-explosives</skos:altLabel>
+    <skos:altLabel>bombsandexplosives</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/v/violence' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/p/police' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/m/mosques' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/u/united-states-armament-and-defense' />
+      <nyt:place rdf:resource='http://aaronland.info/nytimes/knows/places/s/syria' />
+      <nyt:place rdf:resource='http://aaronland.info/nytimes/knows/places/m/manhattan-nyc' />
+      <nyt:place rdf:resource='http://aaronland.info/nytimes/knows/places/i/iraq' />
+      <nyt:place rdf:resource='http://aaronland.info/nytimes/knows/places/n/new-delhi-india' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/bombsandexplosives'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/b/bombs-and-explosives' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/f/finances'>
+    <skos:prefLabel>Finances</skos:prefLabel>
+    <skos:altLabel>finances</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/s/suits-and-litigation' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/t/terrorism' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/p/palestinians' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/c/congress' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/h/hamas' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/finances'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/f/finances' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/b/books-and-literature'>
+    <skos:prefLabel>Books and Literature</skos:prefLabel>
+    <skos:altLabel>books-and-literature</skos:altLabel>
+    <skos:altLabel>booksandliterature</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/r/retail-stores-and-trade' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/b/barnes-noble-incorporated' />
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/r/riggio-stephen' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/booksandliterature'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/b/books-and-literature' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/r/retail-stores-and-trade'>
+    <skos:prefLabel>Retail Stores and Trade</skos:prefLabel>
+    <skos:altLabel>retail-stores-and-trade</skos:altLabel>
+    <skos:altLabel>retailstoresandtrade</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/f/firearms' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/e/eyeglasses' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/a/advertising-and-marketing' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/b/books-and-literature' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/w/walmart-stores-incorporated' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/b/barnes-noble-incorporated' />
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/r/riggio-stephen' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/retailstoresandtrade'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/r/retail-stores-and-trade' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/d/documentary-films-and-programs'>
+    <skos:prefLabel>Documentary Films and Programs</skos:prefLabel>
+    <skos:altLabel>documentary-films-and-programs</skos:altLabel>
+    <skos:altLabel>documentaryfilmsandprograms</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/t/television' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/e/earthquakes' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/n/national-geographic-channel' />
+      <nyt:place rdf:resource='http://aaronland.info/nytimes/knows/places/n/new-orleans-la' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/documentaryfilmsandprograms'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/d/documentary-films-and-programs' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/d/deportation'>
+    <skos:prefLabel>Deportation</skos:prefLabel>
+    <skos:altLabel>deportation</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/c/citizenship' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/t/terrorism' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/i/immigration-and-refugees' />
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/a/alarian-sami' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/deportation'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/d/deportation' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/m/murders-and-attempted-murders'>
+    <skos:prefLabel>Murders and Attempted Murders</skos:prefLabel>
+    <skos:altLabel>murders-and-attempted-murders</skos:altLabel>
+    <skos:altLabel>murdersandattemptedmurders</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/c/crime-and-criminals' />
+      <nyt:place rdf:resource='http://aaronland.info/nytimes/knows/places/h/harlem-nyc' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/murdersandattemptedmurders'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/m/murders-and-attempted-murders' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/f/families-and-family-life'>
+    <skos:prefLabel>Families and Family Life</skos:prefLabel>
+    <skos:altLabel>families-and-family-life</skos:altLabel>
+    <skos:altLabel>familiesandfamilylife</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/c/children-and-youth' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/familiesandfamilylife'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/f/families-and-family-life' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/e/executives-and-management'>
+    <skos:prefLabel>Executives and Management</skos:prefLabel>
+    <skos:altLabel>executives-and-management</skos:altLabel>
+    <skos:altLabel>executivesandmanagement</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/t/telephones-and-telecommunications' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/v/verizon-communications' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/executivesandmanagement'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/e/executives-and-management' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/p/pilots'>
+    <skos:prefLabel>Pilots</skos:prefLabel>
+    <skos:altLabel>pilots</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/l/labor' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/d/delta-air-lines-inc' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/pilots'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/p/pilots' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/m/medicine-and-health'>
+    <skos:prefLabel>Medicine and Health</skos:prefLabel>
+    <skos:altLabel>medicine-and-health</skos:altLabel>
+    <skos:altLabel>medicineandhealth</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/h/health-insurance-and-managed-care' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/i/insurance' />
+      <nyt:place rdf:resource='http://aaronland.info/nytimes/knows/places/m/massachusetts' />
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/r/romney-mitt' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/medicineandhealth'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/m/medicine-and-health' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/a/armament-defense-and-military-forces'>
+    <skos:prefLabel>Armament, Defense and Military Forces</skos:prefLabel>
+    <skos:altLabel>armament-defense-and-military-forces</skos:altLabel>
+    <skos:altLabel>armament,defenseandmilitaryforces</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/p/politics-and-government' />
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/r/rumsfeld-donald-h' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/armament,defenseandmilitaryforces'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/a/armament-defense-and-military-forces' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/c/computers-and-the-internet'>
+    <skos:prefLabel>Computers and the Internet</skos:prefLabel>
+    <skos:altLabel>computers-and-the-internet</skos:altLabel>
+    <skos:altLabel>computersandtheinternet</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/c/corn' />
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/p/pollan-michael' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/computersandtheinternet'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/c/computers-and-the-internet' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/c/crime-and-criminals'>
+    <skos:prefLabel>Crime and Criminals</skos:prefLabel>
+    <skos:altLabel>crime-and-criminals</skos:altLabel>
+    <skos:altLabel>crimeandcriminals</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/m/murders-and-attempted-murders' />
+      <nyt:place rdf:resource='http://aaronland.info/nytimes/knows/places/h/harlem-nyc' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/crimeandcriminals'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/c/crime-and-criminals' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/u/united-states-economy'>
+    <skos:prefLabel>United States Economy</skos:prefLabel>
+    <skos:altLabel>united-states-economy</skos:altLabel>
+    <skos:altLabel>unitedstateseconomy</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/u/unemployment' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/s/sales' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/p/production' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/o/oil-petroleum-and-gasoline' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/unitedstateseconomy'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/u/united-states-economy' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/s/steroids'>
+    <skos:prefLabel>Steroids</skos:prefLabel>
+    <skos:altLabel>steroids</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/b/baseball' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/s/san-francisco-giants' />
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/b/bonds-barry' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/steroids'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/s/steroids' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/i/insurance'>
+    <skos:prefLabel>Insurance</skos:prefLabel>
+    <skos:altLabel>insurance</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/h/health-insurance-and-managed-care' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/m/medicine-and-health' />
+      <nyt:place rdf:resource='http://aaronland.info/nytimes/knows/places/m/massachusetts' />
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/r/romney-mitt' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/insurance'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/i/insurance' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/c/company-reports'>
+    <skos:prefLabel>Company Reports</skos:prefLabel>
+    <skos:altLabel>company-reports</skos:altLabel>
+    <skos:altLabel>companyreports</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/c/computer-chips' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/s/samsung-electronics-co' />
+      <nyt:place rdf:resource='http://aaronland.info/nytimes/knows/places/s/south-korea' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/companyreports'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/c/company-reports' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/d/dancing'>
+    <skos:prefLabel>Dancing</skos:prefLabel>
+    <skos:altLabel>dancing</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/c/classical-music' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/a/american-ballet-theater' />
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/h/hassabi-maria' />
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/s/stiefel-ethan' />
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/b/balanchine-george' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/dancing'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/d/dancing' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/s/scholarships-and-fellowships'>
+    <skos:prefLabel>Scholarships and Fellowships</skos:prefLabel>
+    <skos:altLabel>scholarships-and-fellowships</skos:altLabel>
+    <skos:altLabel>scholarshipsandfellowships</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/u/university-of-maryland' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/scholarshipsandfellowships'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/s/scholarships-and-fellowships' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/h/hurricane-katrina'>
+    <skos:prefLabel>Hurricane Katrina</skos:prefLabel>
+    <skos:altLabel>hurricane-katrina</skos:altLabel>
+    <skos:altLabel>hurricanekatrina</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/h/hurricanes-and-tropical-storms' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/f/federal-emergency-management-agency' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/hurricanekatrina'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/h/hurricane-katrina' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/n/national-parks-monuments-and-seashores'>
+    <skos:prefLabel>National Parks, Monuments and Seashores</skos:prefLabel>
+    <skos:altLabel>national-parks-monuments-and-seashores</skos:altLabel>
+    <skos:altLabel>nationalparks,monumentsandseashores</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/a/animals' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/nationalparks,monumentsandseashores'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/n/national-parks-monuments-and-seashores' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/o/oceans'>
+    <skos:prefLabel>Oceans</skos:prefLabel>
+    <skos:altLabel>oceans</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/e/environment' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/a/army-corps-of-engineers' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/oceans'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/o/oceans' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/v/viruses'>
+    <skos:prefLabel>Viruses</skos:prefLabel>
+    <skos:altLabel>viruses</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/b/birds' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/a/avian-influenza' />
+      <nyt:place rdf:resource='http://aaronland.info/nytimes/knows/places/e/europe' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/viruses'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/v/viruses' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/p/personal-finances'>
+    <skos:prefLabel>Personal Finances</skos:prefLabel>
+    <skos:altLabel>personal-finances</skos:altLabel>
+    <skos:altLabel>personalfinances</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/f/federal-taxes-us' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/i/internal-revenue-service' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/personalfinances'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/p/personal-finances' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/c/cancer'>
+    <skos:prefLabel>Cancer</skos:prefLabel>
+    <skos:altLabel>cancer</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/b/breast' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/c/chemotherapy' />
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/b/brenner-barbara-a' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/cancer'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/c/cancer' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/s/suits-and-litigation'>
+    <skos:prefLabel>Suits and Litigation</skos:prefLabel>
+    <skos:altLabel>suits-and-litigation</skos:altLabel>
+    <skos:altLabel>suitsandlitigation</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/f/finances' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/t/terrorism' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/s/securities-and-commodities-violations' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/p/palestinians' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/h/homeless-persons' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/a/american-civil-liberties-union-of-southern-california' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/h/hamas' />
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/k/khashoggi-adnan' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/suitsandlitigation'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/s/suits-and-litigation' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/f/factories-and-industrial-plants'>
+    <skos:prefLabel>Factories and Industrial Plants</skos:prefLabel>
+    <skos:altLabel>factories-and-industrial-plants</skos:altLabel>
+    <skos:altLabel>factoriesandindustrialplants</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/a/automobiles' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/t/toyota-motor-corporation' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/factoriesandindustrialplants'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/f/factories-and-industrial-plants' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/p/production'>
+    <skos:prefLabel>Production</skos:prefLabel>
+    <skos:altLabel>production</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/u/united-states-economy' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/production'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/p/production' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/a/atomic-weapons'>
+    <skos:prefLabel>Atomic Weapons</skos:prefLabel>
+    <skos:altLabel>atomic-weapons</skos:altLabel>
+    <skos:altLabel>atomicweapons</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/i/international-relations' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/u/united-states-international-relations' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/u/united-states-armament-and-defense' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/o/oil-petroleum-and-gasoline' />
+      <nyt:place rdf:resource='http://aaronland.info/nytimes/knows/places/i/iran' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/atomicweapons'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/a/atomic-weapons' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/w/weather'>
+    <skos:prefLabel>Weather</skos:prefLabel>
+    <skos:altLabel>weather</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/t/tornadoes' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/u/university-of-iowa' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/weather'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/w/weather' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/m/mountain-climbing'>
+    <skos:prefLabel>Mountain Climbing</skos:prefLabel>
+    <skos:altLabel>mountain-climbing</skos:altLabel>
+    <skos:altLabel>mountainclimbing</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/v/viesturs-ed' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/mountainclimbing'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/m/mountain-climbing' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/k/kentucky-derby'>
+    <skos:prefLabel>Kentucky Derby</skos:prefLabel>
+    <skos:altLabel>kentucky-derby</skos:altLabel>
+    <skos:altLabel>kentuckyderby</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/h/horse-racing' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/kentuckyderby'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/k/kentucky-derby' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/n/news-and-news-media'>
+    <skos:prefLabel>News and News Media</skos:prefLabel>
+    <skos:altLabel>news-and-news-media</skos:altLabel>
+    <skos:altLabel>newsandnewsmedia</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/d/deaths-obituaries' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/a/animals' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/c/cats' />
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/r/randolph-eleanor' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/newsandnewsmedia'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/n/news-and-news-media' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/l/labor'>
+    <skos:prefLabel>Labor</skos:prefLabel>
+    <skos:altLabel>labor</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/p/pilots' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/i/immigration-and-refugees' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/d/delta-air-lines-inc' />
+      <nyt:place rdf:resource='http://aaronland.info/nytimes/knows/places/i/india' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/labor'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/l/labor' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/c/cats'>
+    <skos:prefLabel>Cats</skos:prefLabel>
+    <skos:altLabel>cats</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/a/animals' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/n/news-and-news-media' />
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/r/randolph-eleanor' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/cats'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/c/cats' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/h/health-insurance-and-managed-care'>
+    <skos:prefLabel>Health Insurance and Managed Care</skos:prefLabel>
+    <skos:altLabel>health-insurance-and-managed-care</skos:altLabel>
+    <skos:altLabel>healthinsuranceandmanagedcare</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/m/medicine-and-health' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/i/insurance' />
+      <nyt:place rdf:resource='http://aaronland.info/nytimes/knows/places/m/massachusetts' />
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/r/romney-mitt' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/healthinsuranceandmanagedcare'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/h/health-insurance-and-managed-care' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/p/psychology-and-psychologists'>
+    <skos:prefLabel>Psychology and Psychologists</skos:prefLabel>
+    <skos:altLabel>psychology-and-psychologists</skos:altLabel>
+    <skos:altLabel>psychologyandpsychologists</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/d/deaths-obituaries' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/psychologyandpsychologists'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/p/psychology-and-psychologists' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/c/chemotherapy'>
+    <skos:prefLabel>Chemotherapy</skos:prefLabel>
+    <skos:altLabel>chemotherapy</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/c/cancer' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/b/breast' />
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/b/brenner-barbara-a' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/chemotherapy'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/c/chemotherapy' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/f/federal-taxes-us'>
+    <skos:prefLabel>Federal Taxes (US)</skos:prefLabel>
+    <skos:altLabel>federal-taxes-us</skos:altLabel>
+    <skos:altLabel>federaltaxes(us)</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/w/wages-and-salaries' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/p/personal-finances' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/i/internal-revenue-service' />
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/b/bush-laura' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/federaltaxes(us)'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/f/federal-taxes-us' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/a/automobiles'>
+    <skos:prefLabel>Automobiles</skos:prefLabel>
+    <skos:altLabel>automobiles</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/f/factories-and-industrial-plants' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/t/toyota-motor-corporation' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/b/bmw' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/automobiles'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/a/automobiles' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/c/corn'>
+    <skos:prefLabel>Corn</skos:prefLabel>
+    <skos:altLabel>corn</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/c/computers-and-the-internet' />
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/p/pollan-michael' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/corn'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/c/corn' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/t/tax-evasion'>
+    <skos:prefLabel>Tax Evasion</skos:prefLabel>
+    <skos:altLabel>tax-evasion</skos:altLabel>
+    <skos:altLabel>taxevasion</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/i/internal-revenue-service' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/taxevasion'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/t/tax-evasion' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/s/sales'>
+    <skos:prefLabel>Sales</skos:prefLabel>
+    <skos:altLabel>sales</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/u/united-states-economy' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/o/oil-petroleum-and-gasoline' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/sales'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/s/sales' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/e/earthquakes'>
+    <skos:prefLabel>Earthquakes</skos:prefLabel>
+    <skos:altLabel>earthquakes</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/t/television' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/d/documentary-films-and-programs' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/n/national-geographic-channel' />
+      <nyt:place rdf:resource='http://aaronland.info/nytimes/knows/places/n/new-orleans-la' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/earthquakes'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/e/earthquakes' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/i/immigration-and-refugees'>
+    <skos:prefLabel>Immigration and Refugees</skos:prefLabel>
+    <skos:altLabel>immigration-and-refugees</skos:altLabel>
+    <skos:altLabel>immigrationandrefugees</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/c/citizenship' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/d/deportation' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/l/labor' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/c/congress' />
+      <nyt:place rdf:resource='http://aaronland.info/nytimes/knows/places/a/australia' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/immigrationandrefugees'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/i/immigration-and-refugees' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/p/palestinians'>
+    <skos:prefLabel>Palestinians</skos:prefLabel>
+    <skos:altLabel>palestinians</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/v/violence' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/s/suits-and-litigation' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/f/finances' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/t/terrorism' />
+      <nyt:place rdf:resource='http://aaronland.info/nytimes/knows/places/g/gaza-strip' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/h/hamas' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/palestinians'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/p/palestinians' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/u/united-states-armament-and-defense'>
+    <skos:prefLabel>United States Armament and Defense</skos:prefLabel>
+    <skos:altLabel>united-states-armament-and-defense</skos:altLabel>
+    <skos:altLabel>unitedstatesarmamentanddefense</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/v/violence' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/i/international-relations' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/u/united-states-international-relations' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/b/bombs-and-explosives' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/a/atomic-weapons' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/o/oil-petroleum-and-gasoline' />
+      <nyt:place rdf:resource='http://aaronland.info/nytimes/knows/places/i/iran' />
+      <nyt:place rdf:resource='http://aaronland.info/nytimes/knows/places/i/iraq' />
+      <nyt:place rdf:resource='http://aaronland.info/nytimes/knows/places/a/afghanistan' />
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/r/rumsfeld-donald-h' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/unitedstatesarmamentanddefense'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/u/united-states-armament-and-defense' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/b/baseball'>
+    <skos:prefLabel>Baseball</skos:prefLabel>
+    <skos:altLabel>baseball</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/s/steroids' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/n/new-york-yankees' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/n/new-york-mets' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/s/san-francisco-giants' />
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/j/johnson-randy' />
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/b/bonds-barry' />
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/o/oliver-darren' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/baseball'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/b/baseball' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/w/world-cup-soccer'>
+    <skos:prefLabel>World Cup (Soccer)</skos:prefLabel>
+    <skos:altLabel>world-cup-soccer</skos:altLabel>
+    <skos:altLabel>worldcup(soccer)</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/s/soccer' />
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/k/keller-kasey' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/worldcup(soccer)'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/w/world-cup-soccer' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/a/assassinations-and-attempted-assassinations'>
+    <skos:prefLabel>Assassinations and Attempted Assassinations</skos:prefLabel>
+    <skos:altLabel>assassinations-and-attempted-assassinations</skos:altLabel>
+    <skos:altLabel>assassinationsandattemptedassassinations</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:place rdf:resource='http://aaronland.info/nytimes/knows/places/k/kyrgyzstan' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/assassinationsandattemptedassassinations'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/a/assassinations-and-attempted-assassinations' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/w/wages-and-salaries'>
+    <skos:prefLabel>Wages and Salaries</skos:prefLabel>
+    <skos:altLabel>wages-and-salaries</skos:altLabel>
+    <skos:altLabel>wagesandsalaries</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/f/federal-taxes-us' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/o/oil-petroleum-and-gasoline' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/e/exxon-mobil-corporation' />
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/b/bush-laura' />
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/r/raymond-lee-r' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/wagesandsalaries'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/w/wages-and-salaries' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/m/manuscripts'>
+    <skos:prefLabel>Manuscripts</skos:prefLabel>
+    <skos:altLabel>manuscripts</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/c/christians-and-christianity' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/n/national-geographic-society' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/manuscripts'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/m/manuscripts' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/p/police'>
+    <skos:prefLabel>Police</skos:prefLabel>
+    <skos:altLabel>police</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/p/parks-and-other-recreation-areas' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/b/bombs-and-explosives' />
+      <nyt:place rdf:resource='http://aaronland.info/nytimes/knows/places/m/manhattan-nyc' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/police'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/p/police' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/t/telephones-and-telecommunications'>
+    <skos:prefLabel>Telephones and Telecommunications</skos:prefLabel>
+    <skos:altLabel>telephones-and-telecommunications</skos:altLabel>
+    <skos:altLabel>telephonesandtelecommunications</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/e/executives-and-management' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/v/verizon-communications' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/telephonesandtelecommunications'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/t/telephones-and-telecommunications' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/a/animals'>
+    <skos:prefLabel>Animals</skos:prefLabel>
+    <skos:altLabel>animals</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/n/national-parks-monuments-and-seashores' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/n/news-and-news-media' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/c/cats' />
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/r/randolph-eleanor' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/animals'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/a/animals' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/m/mosques'>
+    <skos:prefLabel>Mosques</skos:prefLabel>
+    <skos:altLabel>mosques</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/b/bombs-and-explosives' />
+      <nyt:place rdf:resource='http://aaronland.info/nytimes/knows/places/n/new-delhi-india' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/mosques'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/m/mosques' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/h/hurricanes-and-tropical-storms'>
+    <skos:prefLabel>Hurricanes and Tropical Storms</skos:prefLabel>
+    <skos:altLabel>hurricanes-and-tropical-storms</skos:altLabel>
+    <skos:altLabel>hurricanesandtropicalstorms</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/h/hurricane-katrina' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/f/federal-emergency-management-agency' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/hurricanesandtropicalstorms'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/h/hurricanes-and-tropical-storms' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/c/colleges-and-universities'>
+    <skos:prefLabel>Colleges and Universities</skos:prefLabel>
+    <skos:altLabel>colleges-and-universities</skos:altLabel>
+    <skos:altLabel>collegesanduniversities</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/a/art' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/e/education-and-schools' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/c/columbia-university' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/collegesanduniversities'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/c/colleges-and-universities' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/h/horse-racing'>
+    <skos:prefLabel>Horse Racing</skos:prefLabel>
+    <skos:altLabel>horse-racing</skos:altLabel>
+    <skos:altLabel>horseracing</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/k/kentucky-derby' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/horseracing'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/h/horse-racing' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/b/birds'>
+    <skos:prefLabel>Birds</skos:prefLabel>
+    <skos:altLabel>birds</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/a/avian-influenza' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/v/viruses' />
+      <nyt:place rdf:resource='http://aaronland.info/nytimes/knows/places/e/europe' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/birds'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/b/birds' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/s/sex-crimes'>
+    <skos:prefLabel>Sex Crimes</skos:prefLabel>
+    <skos:altLabel>sex-crimes</skos:altLabel>
+    <skos:altLabel>sexcrimes</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/l/lacrosse' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/d/duke-university' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/sexcrimes'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/s/sex-crimes' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/p/parks-and-other-recreation-areas'>
+    <skos:prefLabel>Parks and Other Recreation Areas</skos:prefLabel>
+    <skos:altLabel>parks-and-other-recreation-areas</skos:altLabel>
+    <skos:altLabel>parksandotherrecreationareas</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/p/police' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/parksandotherrecreationareas'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/p/parks-and-other-recreation-areas' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/m/mergers-acquisitions-and-divestitures'>
+    <skos:prefLabel>Mergers, Acquisitions and Divestitures</skos:prefLabel>
+    <skos:altLabel>mergers-acquisitions-and-divestitures</skos:altLabel>
+    <skos:altLabel>mergers,acquisitionsanddivestitures</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/k/knightridder-inc' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/mergers,acquisitionsanddivestitures'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/m/mergers-acquisitions-and-divestitures' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/e/elections'>
+    <skos:prefLabel>Elections</skos:prefLabel>
+    <skos:altLabel>elections</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:place rdf:resource='http://aaronland.info/nytimes/knows/places/i/italy' />
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/b/berlusconi-silvio' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/elections'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/e/elections' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/o/organized-crime'>
+    <skos:prefLabel>Organized Crime</skos:prefLabel>
+    <skos:altLabel>organized-crime</skos:altLabel>
+    <skos:altLabel>organizedcrime</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:place rdf:resource='http://aaronland.info/nytimes/knows/places/i/italy' />
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/d/devecchio-r-lindley' />
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/p/provenzano-bernardo' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/organizedcrime'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/o/organized-crime' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/i/international-relations'>
+    <skos:prefLabel>International Relations</skos:prefLabel>
+    <skos:altLabel>international-relations</skos:altLabel>
+    <skos:altLabel>internationalrelations</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/u/united-states-international-relations' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/a/atomic-weapons' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/u/united-states-armament-and-defense' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/o/oil-petroleum-and-gasoline' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/s/state-department' />
+      <nyt:place rdf:resource='http://aaronland.info/nytimes/knows/places/i/iran' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/internationalrelations'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/i/international-relations' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/e/eyeglasses'>
+    <skos:prefLabel>Eyeglasses</skos:prefLabel>
+    <skos:altLabel>eyeglasses</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/a/advertising-and-marketing' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/r/retail-stores-and-trade' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/eyeglasses'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/e/eyeglasses' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/e/environment'>
+    <skos:prefLabel>Environment</skos:prefLabel>
+    <skos:altLabel>environment</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/o/oceans' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/a/army-corps-of-engineers' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/environment'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/e/environment' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/u/unemployment'>
+    <skos:prefLabel>Unemployment</skos:prefLabel>
+    <skos:altLabel>unemployment</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/u/united-states-economy' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/unemployment'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/u/unemployment' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/c/computer-chips'>
+    <skos:prefLabel>Computer Chips</skos:prefLabel>
+    <skos:altLabel>computer-chips</skos:altLabel>
+    <skos:altLabel>computerchips</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/c/company-reports' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/s/samsung-electronics-co' />
+      <nyt:place rdf:resource='http://aaronland.info/nytimes/knows/places/s/south-korea' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/computerchips'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/c/computer-chips' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/t/television'>
+    <skos:prefLabel>Television</skos:prefLabel>
+    <skos:altLabel>television</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/f/friendship' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/e/earthquakes' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/d/documentary-films-and-programs' />
+      <nyt:place rdf:resource='http://aaronland.info/nytimes/knows/places/n/new-orleans-la' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/a/abc-inc' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/a/arts-entertainment-network' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/n/national-geographic-channel' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/television'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/t/television' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/s/securities-and-commodities-violations'>
+    <skos:prefLabel>Securities and Commodities Violations</skos:prefLabel>
+    <skos:altLabel>securities-and-commodities-violations</skos:altLabel>
+    <skos:altLabel>securitiesandcommoditiesviolations</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/s/suits-and-litigation' />
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/k/khashoggi-adnan' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/securitiesandcommoditiesviolations'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/s/securities-and-commodities-violations' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/d/demonstrations-and-riots'>
+    <skos:prefLabel>Demonstrations and Riots</skos:prefLabel>
+    <skos:altLabel>demonstrations-and-riots</skos:altLabel>
+    <skos:altLabel>demonstrationsandriots</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:place rdf:resource='http://aaronland.info/nytimes/knows/places/n/nepal' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/demonstrationsandriots'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/d/demonstrations-and-riots' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/a/attorneys-general'>
+    <skos:prefLabel>Attorneys General</skos:prefLabel>
+    <skos:altLabel>attorneys-general</skos:altLabel>
+    <skos:altLabel>attorneysgeneral</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:place rdf:resource='http://aaronland.info/nytimes/knows/places/n/new-york-state' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/attorneysgeneral'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/a/attorneys-general' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/b/breast'>
+    <skos:prefLabel>Breast</skos:prefLabel>
+    <skos:altLabel>breast</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/c/cancer' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/c/chemotherapy' />
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/b/brenner-barbara-a' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/breast'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/b/breast' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/f/firearms'>
+    <skos:prefLabel>Firearms</skos:prefLabel>
+    <skos:altLabel>firearms</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/r/retail-stores-and-trade' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/w/walmart-stores-incorporated' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/firearms'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/f/firearms' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/t/travel-and-vacations'>
+    <skos:prefLabel>Travel and Vacations</skos:prefLabel>
+    <skos:altLabel>travel-and-vacations</skos:altLabel>
+    <skos:altLabel>travelandvacations</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:place rdf:resource='http://aaronland.info/nytimes/knows/places/c/canada' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/travelandvacations'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/t/travel-and-vacations' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/c/christians-and-christianity'>
+    <skos:prefLabel>Christians and Christianity</skos:prefLabel>
+    <skos:altLabel>christians-and-christianity</skos:altLabel>
+    <skos:altLabel>christiansandchristianity</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/m/manuscripts' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/n/national-geographic-society' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/christiansandchristianity'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/c/christians-and-christianity' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/u/united-states-international-relations'>
+    <skos:prefLabel>United States International Relations</skos:prefLabel>
+    <skos:altLabel>united-states-international-relations</skos:altLabel>
+    <skos:altLabel>unitedstatesinternationalrelations</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/i/international-relations' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/a/atomic-weapons' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/u/united-states-armament-and-defense' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/o/oil-petroleum-and-gasoline' />
+      <nyt:place rdf:resource='http://aaronland.info/nytimes/knows/places/i/iran' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/unitedstatesinternationalrelations'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/u/united-states-international-relations' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/a/advertising-and-marketing'>
+    <skos:prefLabel>Advertising and Marketing</skos:prefLabel>
+    <skos:altLabel>advertising-and-marketing</skos:altLabel>
+    <skos:altLabel>advertisingandmarketing</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/e/eyeglasses' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/r/retail-stores-and-trade' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/advertisingandmarketing'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/a/advertising-and-marketing' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/a/avian-influenza'>
+    <skos:prefLabel>Avian Influenza</skos:prefLabel>
+    <skos:altLabel>avian-influenza</skos:altLabel>
+    <skos:altLabel>avianinfluenza</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/b/birds' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/v/viruses' />
+      <nyt:place rdf:resource='http://aaronland.info/nytimes/knows/places/e/europe' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/avianinfluenza'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/a/avian-influenza' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/v/violence'>
+    <skos:prefLabel>Violence</skos:prefLabel>
+    <skos:altLabel>violence</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/b/bombs-and-explosives' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/u/united-states-armament-and-defense' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/p/palestinians' />
+      <nyt:place rdf:resource='http://aaronland.info/nytimes/knows/places/g/gaza-strip' />
+      <nyt:place rdf:resource='http://aaronland.info/nytimes/knows/places/i/iraq' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/violence'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/v/violence' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/b/bridge-card-game'>
+    <skos:prefLabel>Bridge (Card Game)</skos:prefLabel>
+    <skos:altLabel>bridge-card-game</skos:altLabel>
+    <skos:altLabel>bridge(cardgame)</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/c/cards-and-card-games' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/bridge(cardgame)'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/b/bridge-card-game' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/f/football'>
+    <skos:prefLabel>Football</skos:prefLabel>
+    <skos:altLabel>football</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/w/washington-redskins' />
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/t/taylor-sean' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/football'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/f/football' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/h/homeless-persons'>
+    <skos:prefLabel>Homeless Persons</skos:prefLabel>
+    <skos:altLabel>homeless-persons</skos:altLabel>
+    <skos:altLabel>homelesspersons</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/s/suits-and-litigation' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/a/american-civil-liberties-union-of-southern-california' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/homelesspersons'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/h/homeless-persons' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/t/theater'>
+    <skos:prefLabel>Theater</skos:prefLabel>
+    <skos:altLabel>theater</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/b/beckett-samuel' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/theater'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/t/theater' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/e/education-and-schools'>
+    <skos:prefLabel>Education and Schools</skos:prefLabel>
+    <skos:altLabel>education-and-schools</skos:altLabel>
+    <skos:altLabel>educationandschools</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/a/art' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/r/race' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/c/colleges-and-universities' />
+      <nyt:place rdf:resource='http://aaronland.info/nytimes/knows/places/n/nebraska' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/c/columbia-university' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/educationandschools'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/e/education-and-schools' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/b/basketball'>
+    <skos:prefLabel>Basketball</skos:prefLabel>
+    <skos:altLabel>basketball</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/n/new-jersey-nets' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/n/new-york-knicks' />
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/b/brown-larry' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/basketball'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/b/basketball' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/e/eyes-and-eyesight'>
+    <skos:prefLabel>Eyes and Eyesight</skos:prefLabel>
+    <skos:altLabel>eyes-and-eyesight</skos:altLabel>
+    <skos:altLabel>eyesandeyesight</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/b/bausch-lomb-incorporated' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/eyesandeyesight'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/e/eyes-and-eyesight' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/l/lacrosse'>
+    <skos:prefLabel>Lacrosse</skos:prefLabel>
+    <skos:altLabel>lacrosse</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/s/sex-crimes' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/d/duke-university' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/lacrosse'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/l/lacrosse' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/r/race'>
+    <skos:prefLabel>Race</skos:prefLabel>
+    <skos:altLabel>race</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/e/education-and-schools' />
+      <nyt:place rdf:resource='http://aaronland.info/nytimes/knows/places/n/nebraska' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/race'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/r/race' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/c/cards-and-card-games'>
+    <skos:prefLabel>Cards and Card Games</skos:prefLabel>
+    <skos:altLabel>cards-and-card-games</skos:altLabel>
+    <skos:altLabel>cardsandcardgames</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/b/bridge-card-game' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/cardsandcardgames'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/c/cards-and-card-games' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/c/children-and-youth'>
+    <skos:prefLabel>Children and Youth</skos:prefLabel>
+    <skos:altLabel>children-and-youth</skos:altLabel>
+    <skos:altLabel>childrenandyouth</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/f/families-and-family-life' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/childrenandyouth'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/c/children-and-youth' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/t/tornadoes'>
+    <skos:prefLabel>Tornadoes</skos:prefLabel>
+    <skos:altLabel>tornadoes</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/w/weather' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/u/university-of-iowa' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/tornadoes'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/t/tornadoes' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/o/oil-petroleum-and-gasoline'>
+    <skos:prefLabel>Oil (Petroleum) and Gasoline</skos:prefLabel>
+    <skos:altLabel>oil-petroleum-and-gasoline</skos:altLabel>
+    <skos:altLabel>oil(petroleum)andgasoline</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/i/international-relations' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/u/united-states-economy' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/u/united-states-international-relations' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/s/sales' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/a/atomic-weapons' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/u/united-states-armament-and-defense' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/w/wages-and-salaries' />
+      <nyt:place rdf:resource='http://aaronland.info/nytimes/knows/places/i/iran' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/e/exxon-mobil-corporation' />
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/r/raymond-lee-r' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/oil(petroleum)andgasoline'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/o/oil-petroleum-and-gasoline' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/f/friendship'>
+    <skos:prefLabel>Friendship</skos:prefLabel>
+    <skos:altLabel>friendship</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/t/television' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/a/abc-inc' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/friendship'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/f/friendship' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/a/art'>
+    <skos:prefLabel>Art</skos:prefLabel>
+    <skos:altLabel>art</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/m/museums' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/m/motion-pictures' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/e/education-and-schools' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/c/colleges-and-universities' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/c/columbia-university' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/art'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/a/art' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/p/politics-and-government'>
+    <skos:prefLabel>Politics and Government</skos:prefLabel>
+    <skos:altLabel>politics-and-government</skos:altLabel>
+    <skos:altLabel>politicsandgovernment</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/a/armament-defense-and-military-forces' />
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/r/rumsfeld-donald-h' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/politicsandgovernment'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/p/politics-and-government' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/d/deaths-obituaries'>
+    <skos:prefLabel>Deaths (Obituaries)</skos:prefLabel>
+    <skos:altLabel>deaths-obituaries</skos:altLabel>
+    <skos:altLabel>deaths(obituaries)</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/p/psychology-and-psychologists' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/n/news-and-news-media' />
+      <nyt:place rdf:resource='http://aaronland.info/nytimes/knows/places/k/kosovo-serbia' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/deaths(obituaries)'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/d/deaths-obituaries' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/m/museums'>
+    <skos:prefLabel>Museums</skos:prefLabel>
+    <skos:altLabel>museums</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/a/art' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/m/motion-pictures' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/museums'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/m/museums' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/t/terrorism'>
+    <skos:prefLabel>Terrorism</skos:prefLabel>
+    <skos:altLabel>terrorism</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/s/suits-and-litigation' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/f/finances' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/d/deportation' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/p/palestinians' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/h/hamas' />
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/a/alarian-sami' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/terrorism'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/t/terrorism' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/s/soccer'>
+    <skos:prefLabel>Soccer</skos:prefLabel>
+    <skos:altLabel>soccer</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/w/world-cup-soccer' />
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/k/keller-kasey' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/soccer'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/s/soccer' />
+  </del:tag>
+  <nyt:idea rdf:about='http://aaronland.info/nytimes/knows/ideas/g/golf'>
+    <skos:prefLabel>Golf</skos:prefLabel>
+    <skos:altLabel>golf</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/ideas' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/f/furyk-jim' />
+    </skos:related>
+  </nyt:idea>
+  <del:tag rdf:about='http://del.icio.us/tag/golf'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/ideas/g/golf' />
+  </del:tag>
+  <nyt:organization rdf:about='http://aaronland.info/nytimes/knows/organizations/n/new-york-yankees'>
+    <skos:prefLabel>New York Yankees</skos:prefLabel>
+    <skos:altLabel>new-york-yankees</skos:altLabel>
+    <skos:altLabel>newyorkyankees</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/organizations' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/b/baseball' />
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/j/johnson-randy' />
+    </skos:related>
+  </nyt:organization>
+  <del:tag rdf:about='http://del.icio.us/tag/newyorkyankees'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/organizations/n/new-york-yankees' />
+  </del:tag>
+  <nyt:organization rdf:about='http://aaronland.info/nytimes/knows/organizations/u/university-of-iowa'>
+    <skos:prefLabel>University of Iowa</skos:prefLabel>
+    <skos:altLabel>university-of-iowa</skos:altLabel>
+    <skos:altLabel>universityofiowa</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/organizations' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/w/weather' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/t/tornadoes' />
+    </skos:related>
+  </nyt:organization>
+  <del:tag rdf:about='http://del.icio.us/tag/universityofiowa'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/organizations/u/university-of-iowa' />
+  </del:tag>
+  <nyt:organization rdf:about='http://aaronland.info/nytimes/knows/organizations/n/national-geographic-society'>
+    <skos:prefLabel>National Geographic Society</skos:prefLabel>
+    <skos:altLabel>national-geographic-society</skos:altLabel>
+    <skos:altLabel>nationalgeographicsociety</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/organizations' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/m/manuscripts' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/c/christians-and-christianity' />
+    </skos:related>
+  </nyt:organization>
+  <del:tag rdf:about='http://del.icio.us/tag/nationalgeographicsociety'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/organizations/n/national-geographic-society' />
+  </del:tag>
+  <nyt:organization rdf:about='http://aaronland.info/nytimes/knows/organizations/a/army-corps-of-engineers'>
+    <skos:prefLabel>Army Corps of Engineers</skos:prefLabel>
+    <skos:altLabel>army-corps-of-engineers</skos:altLabel>
+    <skos:altLabel>armycorpsofengineers</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/organizations' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/e/environment' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/o/oceans' />
+    </skos:related>
+  </nyt:organization>
+  <del:tag rdf:about='http://del.icio.us/tag/armycorpsofengineers'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/organizations/a/army-corps-of-engineers' />
+  </del:tag>
+  <nyt:organization rdf:about='http://aaronland.info/nytimes/knows/organizations/k/knightridder-inc'>
+    <skos:prefLabel>Knight-Ridder Inc</skos:prefLabel>
+    <skos:altLabel>knightridder-inc</skos:altLabel>
+    <skos:altLabel>knight-ridderinc</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/organizations' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/m/mergers-acquisitions-and-divestitures' />
+    </skos:related>
+  </nyt:organization>
+  <del:tag rdf:about='http://del.icio.us/tag/knight-ridderinc'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/organizations/k/knightridder-inc' />
+  </del:tag>
+  <nyt:organization rdf:about='http://aaronland.info/nytimes/knows/organizations/v/verizon-communications'>
+    <skos:prefLabel>Verizon Communications</skos:prefLabel>
+    <skos:altLabel>verizon-communications</skos:altLabel>
+    <skos:altLabel>verizoncommunications</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/organizations' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/e/executives-and-management' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/t/telephones-and-telecommunications' />
+    </skos:related>
+  </nyt:organization>
+  <del:tag rdf:about='http://del.icio.us/tag/verizoncommunications'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/organizations/v/verizon-communications' />
+  </del:tag>
+  <nyt:organization rdf:about='http://aaronland.info/nytimes/knows/organizations/t/toyota-motor-corporation'>
+    <skos:prefLabel>Toyota Motor Corporation</skos:prefLabel>
+    <skos:altLabel>toyota-motor-corporation</skos:altLabel>
+    <skos:altLabel>toyotamotorcorporation</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/organizations' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/a/automobiles' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/f/factories-and-industrial-plants' />
+    </skos:related>
+  </nyt:organization>
+  <del:tag rdf:about='http://del.icio.us/tag/toyotamotorcorporation'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/organizations/t/toyota-motor-corporation' />
+  </del:tag>
+  <nyt:organization rdf:about='http://aaronland.info/nytimes/knows/organizations/b/bausch-lomb-incorporated'>
+    <skos:prefLabel>Bausch &amp; Lomb Incorporated</skos:prefLabel>
+    <skos:altLabel>bausch-lomb-incorporated</skos:altLabel>
+    <skos:altLabel>bausch&amp;lombincorporated</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/organizations' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/e/eyes-and-eyesight' />
+    </skos:related>
+  </nyt:organization>
+  <del:tag rdf:about='http://del.icio.us/tag/bausch&amp;lombincorporated'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/organizations/b/bausch-lomb-incorporated' />
+  </del:tag>
+  <nyt:organization rdf:about='http://aaronland.info/nytimes/knows/organizations/a/abc-inc'>
+    <skos:prefLabel>ABC Inc</skos:prefLabel>
+    <skos:altLabel>abc-inc</skos:altLabel>
+    <skos:altLabel>abcinc</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/organizations' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/f/friendship' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/t/television' />
+    </skos:related>
+  </nyt:organization>
+  <del:tag rdf:about='http://del.icio.us/tag/abcinc'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/organizations/a/abc-inc' />
+  </del:tag>
+  <nyt:organization rdf:about='http://aaronland.info/nytimes/knows/organizations/s/san-francisco-giants'>
+    <skos:prefLabel>San Francisco Giants</skos:prefLabel>
+    <skos:altLabel>san-francisco-giants</skos:altLabel>
+    <skos:altLabel>sanfranciscogiants</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/organizations' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/s/steroids' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/b/baseball' />
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/b/bonds-barry' />
+    </skos:related>
+  </nyt:organization>
+  <del:tag rdf:about='http://del.icio.us/tag/sanfranciscogiants'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/organizations/s/san-francisco-giants' />
+  </del:tag>
+  <nyt:organization rdf:about='http://aaronland.info/nytimes/knows/organizations/s/samsung-electronics-co'>
+    <skos:prefLabel>Samsung Electronics Co</skos:prefLabel>
+    <skos:altLabel>samsung-electronics-co</skos:altLabel>
+    <skos:altLabel>samsungelectronicsco</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/organizations' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/c/computer-chips' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/c/company-reports' />
+      <nyt:place rdf:resource='http://aaronland.info/nytimes/knows/places/s/south-korea' />
+    </skos:related>
+  </nyt:organization>
+  <del:tag rdf:about='http://del.icio.us/tag/samsungelectronicsco'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/organizations/s/samsung-electronics-co' />
+  </del:tag>
+  <nyt:organization rdf:about='http://aaronland.info/nytimes/knows/organizations/c/city-hall'>
+    <skos:prefLabel>City Hall</skos:prefLabel>
+    <skos:altLabel>city-hall</skos:altLabel>
+    <skos:altLabel>cityhall</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/organizations' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/m/mayors' />
+    </skos:related>
+  </nyt:organization>
+  <del:tag rdf:about='http://del.icio.us/tag/cityhall'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/organizations/c/city-hall' />
+  </del:tag>
+  <nyt:organization rdf:about='http://aaronland.info/nytimes/knows/organizations/w/washington-redskins'>
+    <skos:prefLabel>Washington Redskins</skos:prefLabel>
+    <skos:altLabel>washington-redskins</skos:altLabel>
+    <skos:altLabel>washingtonredskins</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/organizations' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/f/football' />
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/t/taylor-sean' />
+    </skos:related>
+  </nyt:organization>
+  <del:tag rdf:about='http://del.icio.us/tag/washingtonredskins'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/organizations/w/washington-redskins' />
+  </del:tag>
+  <nyt:organization rdf:about='http://aaronland.info/nytimes/knows/organizations/n/new-york-knicks'>
+    <skos:prefLabel>New York Knicks</skos:prefLabel>
+    <skos:altLabel>new-york-knicks</skos:altLabel>
+    <skos:altLabel>newyorkknicks</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/organizations' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/b/basketball' />
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/b/brown-larry' />
+    </skos:related>
+  </nyt:organization>
+  <del:tag rdf:about='http://del.icio.us/tag/newyorkknicks'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/organizations/n/new-york-knicks' />
+  </del:tag>
+  <nyt:organization rdf:about='http://aaronland.info/nytimes/knows/organizations/a/american-ballet-theater'>
+    <skos:prefLabel>American Ballet Theater</skos:prefLabel>
+    <skos:altLabel>american-ballet-theater</skos:altLabel>
+    <skos:altLabel>americanballettheater</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/organizations' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/d/dancing' />
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/s/stiefel-ethan' />
+    </skos:related>
+  </nyt:organization>
+  <del:tag rdf:about='http://del.icio.us/tag/americanballettheater'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/organizations/a/american-ballet-theater' />
+  </del:tag>
+  <nyt:organization rdf:about='http://aaronland.info/nytimes/knows/organizations/n/new-york-mets'>
+    <skos:prefLabel>New York Mets</skos:prefLabel>
+    <skos:altLabel>new-york-mets</skos:altLabel>
+    <skos:altLabel>newyorkmets</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/organizations' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/b/baseball' />
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/o/oliver-darren' />
+    </skos:related>
+  </nyt:organization>
+  <del:tag rdf:about='http://del.icio.us/tag/newyorkmets'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/organizations/n/new-york-mets' />
+  </del:tag>
+  <nyt:organization rdf:about='http://aaronland.info/nytimes/knows/organizations/u/university-of-maryland'>
+    <skos:prefLabel>University of Maryland</skos:prefLabel>
+    <skos:altLabel>university-of-maryland</skos:altLabel>
+    <skos:altLabel>universityofmaryland</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/organizations' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/s/scholarships-and-fellowships' />
+    </skos:related>
+  </nyt:organization>
+  <del:tag rdf:about='http://del.icio.us/tag/universityofmaryland'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/organizations/u/university-of-maryland' />
+  </del:tag>
+  <nyt:organization rdf:about='http://aaronland.info/nytimes/knows/organizations/a/american-civil-liberties-union-of-southern-california'>
+    <skos:prefLabel>American Civil Liberties Union of Southern California</skos:prefLabel>
+    <skos:altLabel>american-civil-liberties-union-of-southern-california</skos:altLabel>
+    <skos:altLabel>americancivillibertiesunionofsoutherncalifornia</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/organizations' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/s/suits-and-litigation' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/h/homeless-persons' />
+    </skos:related>
+  </nyt:organization>
+  <del:tag rdf:about='http://del.icio.us/tag/americancivillibertiesunionofsoutherncalifornia'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/organizations/a/american-civil-liberties-union-of-southern-california' />
+  </del:tag>
+  <nyt:organization rdf:about='http://aaronland.info/nytimes/knows/organizations/b/barnes-noble-incorporated'>
+    <skos:prefLabel>Barnes &amp; Noble Incorporated</skos:prefLabel>
+    <skos:altLabel>barnes-noble-incorporated</skos:altLabel>
+    <skos:altLabel>barnes&amp;nobleincorporated</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/organizations' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/r/retail-stores-and-trade' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/b/books-and-literature' />
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/r/riggio-stephen' />
+    </skos:related>
+  </nyt:organization>
+  <del:tag rdf:about='http://del.icio.us/tag/barnes&amp;nobleincorporated'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/organizations/b/barnes-noble-incorporated' />
+  </del:tag>
+  <nyt:organization rdf:about='http://aaronland.info/nytimes/knows/organizations/i/internal-revenue-service'>
+    <skos:prefLabel>Internal Revenue Service</skos:prefLabel>
+    <skos:altLabel>internal-revenue-service</skos:altLabel>
+    <skos:altLabel>internalrevenueservice</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/organizations' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/f/federal-taxes-us' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/t/tax-evasion' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/p/personal-finances' />
+    </skos:related>
+  </nyt:organization>
+  <del:tag rdf:about='http://del.icio.us/tag/internalrevenueservice'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/organizations/i/internal-revenue-service' />
+  </del:tag>
+  <nyt:organization rdf:about='http://aaronland.info/nytimes/knows/organizations/d/duke-university'>
+    <skos:prefLabel>Duke University</skos:prefLabel>
+    <skos:altLabel>duke-university</skos:altLabel>
+    <skos:altLabel>dukeuniversity</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/organizations' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/s/sex-crimes' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/l/lacrosse' />
+    </skos:related>
+  </nyt:organization>
+  <del:tag rdf:about='http://del.icio.us/tag/dukeuniversity'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/organizations/d/duke-university' />
+  </del:tag>
+  <nyt:organization rdf:about='http://aaronland.info/nytimes/knows/organizations/c/congress'>
+    <skos:prefLabel>Congress</skos:prefLabel>
+    <skos:altLabel>congress</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/organizations' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/f/finances' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/i/immigration-and-refugees' />
+    </skos:related>
+  </nyt:organization>
+  <del:tag rdf:about='http://del.icio.us/tag/congress'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/organizations/c/congress' />
+  </del:tag>
+  <nyt:organization rdf:about='http://aaronland.info/nytimes/knows/organizations/h/hamas'>
+    <skos:prefLabel>Hamas</skos:prefLabel>
+    <skos:altLabel>hamas</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/organizations' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/s/suits-and-litigation' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/f/finances' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/t/terrorism' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/p/palestinians' />
+    </skos:related>
+  </nyt:organization>
+  <del:tag rdf:about='http://del.icio.us/tag/hamas'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/organizations/h/hamas' />
+  </del:tag>
+  <nyt:organization rdf:about='http://aaronland.info/nytimes/knows/organizations/n/new-york-stock-exchange-the'>
+    <skos:prefLabel>The New York Stock Exchange</skos:prefLabel>
+    <skos:altLabel>new-york-stock-exchange-the</skos:altLabel>
+    <skos:altLabel>thenewyorkstockexchange</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/organizations' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/t/thain-john-a' />
+    </skos:related>
+  </nyt:organization>
+  <del:tag rdf:about='http://del.icio.us/tag/thenewyorkstockexchange'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/organizations/n/new-york-stock-exchange-the' />
+  </del:tag>
+  <nyt:organization rdf:about='http://aaronland.info/nytimes/knows/organizations/s/state-department'>
+    <skos:prefLabel>State Department</skos:prefLabel>
+    <skos:altLabel>state-department</skos:altLabel>
+    <skos:altLabel>statedepartment</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/organizations' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/i/international-relations' />
+      <nyt:place rdf:resource='http://aaronland.info/nytimes/knows/places/i/iran' />
+    </skos:related>
+  </nyt:organization>
+  <del:tag rdf:about='http://del.icio.us/tag/statedepartment'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/organizations/s/state-department' />
+  </del:tag>
+  <nyt:organization rdf:about='http://aaronland.info/nytimes/knows/organizations/f/federal-emergency-management-agency'>
+    <skos:prefLabel>Federal Emergency Management Agency</skos:prefLabel>
+    <skos:altLabel>federal-emergency-management-agency</skos:altLabel>
+    <skos:altLabel>federalemergencymanagementagency</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/organizations' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/h/hurricane-katrina' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/h/hurricanes-and-tropical-storms' />
+    </skos:related>
+  </nyt:organization>
+  <del:tag rdf:about='http://del.icio.us/tag/federalemergencymanagementagency'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/organizations/f/federal-emergency-management-agency' />
+  </del:tag>
+  <nyt:organization rdf:about='http://aaronland.info/nytimes/knows/organizations/n/new-jersey-nets'>
+    <skos:prefLabel>New Jersey Nets</skos:prefLabel>
+    <skos:altLabel>new-jersey-nets</skos:altLabel>
+    <skos:altLabel>newjerseynets</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/organizations' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/b/basketball' />
+    </skos:related>
+  </nyt:organization>
+  <del:tag rdf:about='http://del.icio.us/tag/newjerseynets'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/organizations/n/new-jersey-nets' />
+  </del:tag>
+  <nyt:organization rdf:about='http://aaronland.info/nytimes/knows/organizations/d/delta-air-lines-inc'>
+    <skos:prefLabel>Delta Air Lines Inc</skos:prefLabel>
+    <skos:altLabel>delta-air-lines-inc</skos:altLabel>
+    <skos:altLabel>deltaairlinesinc</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/organizations' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/p/pilots' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/l/labor' />
+    </skos:related>
+  </nyt:organization>
+  <del:tag rdf:about='http://del.icio.us/tag/deltaairlinesinc'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/organizations/d/delta-air-lines-inc' />
+  </del:tag>
+  <nyt:organization rdf:about='http://aaronland.info/nytimes/knows/organizations/b/bmw'>
+    <skos:prefLabel>BMW</skos:prefLabel>
+    <skos:altLabel>bmw</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/organizations' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/a/automobiles' />
+    </skos:related>
+  </nyt:organization>
+  <del:tag rdf:about='http://del.icio.us/tag/bmw'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/organizations/b/bmw' />
+  </del:tag>
+  <nyt:organization rdf:about='http://aaronland.info/nytimes/knows/organizations/c/columbia-university'>
+    <skos:prefLabel>Columbia University</skos:prefLabel>
+    <skos:altLabel>columbia-university</skos:altLabel>
+    <skos:altLabel>columbiauniversity</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/organizations' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/a/art' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/e/education-and-schools' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/c/colleges-and-universities' />
+    </skos:related>
+  </nyt:organization>
+  <del:tag rdf:about='http://del.icio.us/tag/columbiauniversity'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/organizations/c/columbia-university' />
+  </del:tag>
+  <nyt:organization rdf:about='http://aaronland.info/nytimes/knows/organizations/w/walmart-stores-incorporated'>
+    <skos:prefLabel>Wal-Mart Stores Incorporated</skos:prefLabel>
+    <skos:altLabel>walmart-stores-incorporated</skos:altLabel>
+    <skos:altLabel>wal-martstoresincorporated</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/organizations' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/f/firearms' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/r/retail-stores-and-trade' />
+    </skos:related>
+  </nyt:organization>
+  <del:tag rdf:about='http://del.icio.us/tag/wal-martstoresincorporated'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/organizations/w/walmart-stores-incorporated' />
+  </del:tag>
+  <nyt:organization rdf:about='http://aaronland.info/nytimes/knows/organizations/a/arts-entertainment-network'>
+    <skos:prefLabel>Arts &amp; Entertainment Network</skos:prefLabel>
+    <skos:altLabel>arts-entertainment-network</skos:altLabel>
+    <skos:altLabel>arts&amp;entertainmentnetwork</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/organizations' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/t/television' />
+    </skos:related>
+  </nyt:organization>
+  <del:tag rdf:about='http://del.icio.us/tag/arts&amp;entertainmentnetwork'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/organizations/a/arts-entertainment-network' />
+  </del:tag>
+  <nyt:organization rdf:about='http://aaronland.info/nytimes/knows/organizations/n/national-geographic-channel'>
+    <skos:prefLabel>National Geographic Channel</skos:prefLabel>
+    <skos:altLabel>national-geographic-channel</skos:altLabel>
+    <skos:altLabel>nationalgeographicchannel</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/organizations' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/t/television' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/e/earthquakes' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/d/documentary-films-and-programs' />
+      <nyt:place rdf:resource='http://aaronland.info/nytimes/knows/places/n/new-orleans-la' />
+    </skos:related>
+  </nyt:organization>
+  <del:tag rdf:about='http://del.icio.us/tag/nationalgeographicchannel'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/organizations/n/national-geographic-channel' />
+  </del:tag>
+  <nyt:organization rdf:about='http://aaronland.info/nytimes/knows/organizations/e/exxon-mobil-corporation'>
+    <skos:prefLabel>Exxon Mobil Corporation</skos:prefLabel>
+    <skos:altLabel>exxon-mobil-corporation</skos:altLabel>
+    <skos:altLabel>exxonmobilcorporation</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/organizations' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/w/wages-and-salaries' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/o/oil-petroleum-and-gasoline' />
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/r/raymond-lee-r' />
+    </skos:related>
+  </nyt:organization>
+  <del:tag rdf:about='http://del.icio.us/tag/exxonmobilcorporation'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/organizations/e/exxon-mobil-corporation' />
+  </del:tag>
+  <nyt:place rdf:about='http://aaronland.info/nytimes/knows/places/s/syria'>
+    <skos:prefLabel>Syria</skos:prefLabel>
+    <skos:altLabel>syria</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/places' />
+    <geo:Point rdf:parseType='Resource'>
+      <geo:lat>35.0000</geo:lat>
+      <geo:long>38.0000</geo:long>
+    </geo:Point>
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/b/bombs-and-explosives' />
+    </skos:related>
+  </nyt:place>
+  <del:tag rdf:about='http://del.icio.us/tag/syria'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/places/s/syria' />
+  </del:tag>
+  <nyt:place rdf:about='http://aaronland.info/nytimes/knows/places/a/australia'>
+    <skos:prefLabel>Australia</skos:prefLabel>
+    <skos:altLabel>australia</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/places' />
+    <geo:Point rdf:parseType='Resource'>
+      <geo:lat>-27.0000</geo:lat>
+      <geo:long>133.0000</geo:long>
+    </geo:Point>
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/i/immigration-and-refugees' />
+    </skos:related>
+  </nyt:place>
+  <del:tag rdf:about='http://del.icio.us/tag/australia'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/places/a/australia' />
+  </del:tag>
+  <nyt:place rdf:about='http://aaronland.info/nytimes/knows/places/i/italy'>
+    <skos:prefLabel>Italy</skos:prefLabel>
+    <skos:altLabel>italy</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/places' />
+    <geo:Point rdf:parseType='Resource'>
+      <geo:lat>42.8333</geo:lat>
+      <geo:long>12.8333</geo:long>
+    </geo:Point>
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/o/organized-crime' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/e/elections' />
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/p/provenzano-bernardo' />
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/b/berlusconi-silvio' />
+    </skos:related>
+  </nyt:place>
+  <del:tag rdf:about='http://del.icio.us/tag/italy'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/places/i/italy' />
+  </del:tag>
+  <nyt:place rdf:about='http://aaronland.info/nytimes/knows/places/e/europe'>
+    <skos:prefLabel>Europe</skos:prefLabel>
+    <skos:altLabel>europe</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/places' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/b/birds' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/a/avian-influenza' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/v/viruses' />
+    </skos:related>
+  </nyt:place>
+  <del:tag rdf:about='http://del.icio.us/tag/europe'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/places/e/europe' />
+  </del:tag>
+  <nyt:place rdf:about='http://aaronland.info/nytimes/knows/places/m/manhattan-nyc'>
+    <skos:prefLabel>Manhattan (NYC)</skos:prefLabel>
+    <skos:altLabel>manhattan-nyc</skos:altLabel>
+    <skos:altLabel>manhattan(nyc)</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/places' />
+    <geo:Point rdf:parseType='Resource'>
+      <geo:lat>40.783</geo:lat>
+      <geo:long>-73.967</geo:long>
+    </geo:Point>
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/p/police' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/b/bombs-and-explosives' />
+    </skos:related>
+  </nyt:place>
+  <del:tag rdf:about='http://del.icio.us/tag/manhattan(nyc)'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/places/m/manhattan-nyc' />
+  </del:tag>
+  <nyt:place rdf:about='http://aaronland.info/nytimes/knows/places/h/harlem-nyc'>
+    <skos:prefLabel>Harlem (NYC)</skos:prefLabel>
+    <skos:altLabel>harlem-nyc</skos:altLabel>
+    <skos:altLabel>harlem(nyc)</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/places' />
+    <geo:Point rdf:parseType='Resource'>
+      <geo:lat>40.808</geo:lat>
+      <geo:long>-73.946</geo:long>
+    </geo:Point>
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/c/crime-and-criminals' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/m/murders-and-attempted-murders' />
+    </skos:related>
+  </nyt:place>
+  <del:tag rdf:about='http://del.icio.us/tag/harlem(nyc)'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/places/h/harlem-nyc' />
+  </del:tag>
+  <nyt:place rdf:about='http://aaronland.info/nytimes/knows/places/n/nepal'>
+    <skos:prefLabel>Nepal</skos:prefLabel>
+    <skos:altLabel>nepal</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/places' />
+    <geo:Point rdf:parseType='Resource'>
+      <geo:lat>28.0000</geo:lat>
+      <geo:long>84.0000</geo:long>
+    </geo:Point>
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/d/demonstrations-and-riots' />
+    </skos:related>
+  </nyt:place>
+  <del:tag rdf:about='http://del.icio.us/tag/nepal'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/places/n/nepal' />
+  </del:tag>
+  <nyt:place rdf:about='http://aaronland.info/nytimes/knows/places/n/nebraska'>
+    <skos:prefLabel>Nebraska</skos:prefLabel>
+    <skos:altLabel>nebraska</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/places' />
+    <geo:Point rdf:parseType='Resource'>
+      <geo:lat>41.1289</geo:lat>
+      <geo:long>-98.2883</geo:long>
+    </geo:Point>
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/e/education-and-schools' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/r/race' />
+    </skos:related>
+  </nyt:place>
+  <del:tag rdf:about='http://del.icio.us/tag/nebraska'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/places/n/nebraska' />
+  </del:tag>
+  <nyt:place rdf:about='http://aaronland.info/nytimes/knows/places/n/new-york-state'>
+    <skos:prefLabel>New York State</skos:prefLabel>
+    <skos:altLabel>new-york-state</skos:altLabel>
+    <skos:altLabel>newyorkstate</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/places' />
+    <geo:Point rdf:parseType='Resource'>
+      <geo:lat>42.1497</geo:lat>
+      <geo:long>-74.9384</geo:long>
+    </geo:Point>
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/a/attorneys-general' />
+    </skos:related>
+  </nyt:place>
+  <del:tag rdf:about='http://del.icio.us/tag/newyorkstate'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/places/n/new-york-state' />
+  </del:tag>
+  <nyt:place rdf:about='http://aaronland.info/nytimes/knows/places/c/connecticut'>
+    <skos:prefLabel>Connecticut</skos:prefLabel>
+    <skos:altLabel>connecticut</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/places' />
+    <geo:Point rdf:parseType='Resource'>
+      <geo:lat>41.5834</geo:lat>
+      <geo:long>-72.7622</geo:long>
+    </geo:Point>
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/l/lieberman-joseph-i' />
+    </skos:related>
+  </nyt:place>
+  <del:tag rdf:about='http://del.icio.us/tag/connecticut'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/places/c/connecticut' />
+  </del:tag>
+  <nyt:place rdf:about='http://aaronland.info/nytimes/knows/places/m/massachusetts'>
+    <skos:prefLabel>Massachusetts</skos:prefLabel>
+    <skos:altLabel>massachusetts</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/places' />
+    <geo:Point rdf:parseType='Resource'>
+      <geo:lat>42.2373</geo:lat>
+      <geo:long>-71.5314</geo:long>
+    </geo:Point>
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/h/health-insurance-and-managed-care' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/m/medicine-and-health' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/i/insurance' />
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/r/romney-mitt' />
+    </skos:related>
+  </nyt:place>
+  <del:tag rdf:about='http://del.icio.us/tag/massachusetts'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/places/m/massachusetts' />
+  </del:tag>
+  <nyt:place rdf:about='http://aaronland.info/nytimes/knows/places/c/canada'>
+    <skos:prefLabel>Canada</skos:prefLabel>
+    <skos:altLabel>canada</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/places' />
+    <geo:Point rdf:parseType='Resource'>
+      <geo:lat>60.0000</geo:lat>
+      <geo:long>-95.0000</geo:long>
+    </geo:Point>
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/t/travel-and-vacations' />
+    </skos:related>
+  </nyt:place>
+  <del:tag rdf:about='http://del.icio.us/tag/canada'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/places/c/canada' />
+  </del:tag>
+  <nyt:place rdf:about='http://aaronland.info/nytimes/knows/places/i/iraq'>
+    <skos:prefLabel>Iraq</skos:prefLabel>
+    <skos:altLabel>iraq</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/places' />
+    <geo:Point rdf:parseType='Resource'>
+      <geo:lat>33.0000</geo:lat>
+      <geo:long>44.0000</geo:long>
+    </geo:Point>
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/v/violence' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/b/bombs-and-explosives' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/u/united-states-armament-and-defense' />
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/r/rumsfeld-donald-h' />
+    </skos:related>
+  </nyt:place>
+  <del:tag rdf:about='http://del.icio.us/tag/iraq'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/places/i/iraq' />
+  </del:tag>
+  <nyt:place rdf:about='http://aaronland.info/nytimes/knows/places/i/iran'>
+    <skos:prefLabel>Iran</skos:prefLabel>
+    <skos:altLabel>iran</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/places' />
+    <geo:Point rdf:parseType='Resource'>
+      <geo:lat>32.0000</geo:lat>
+      <geo:long>53.0000</geo:long>
+    </geo:Point>
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/i/international-relations' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/u/united-states-international-relations' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/a/atomic-weapons' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/u/united-states-armament-and-defense' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/o/oil-petroleum-and-gasoline' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/s/state-department' />
+    </skos:related>
+  </nyt:place>
+  <del:tag rdf:about='http://del.icio.us/tag/iran'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/places/i/iran' />
+  </del:tag>
+  <nyt:place rdf:about='http://aaronland.info/nytimes/knows/places/n/new-delhi-india'>
+    <skos:prefLabel>New Delhi (India)</skos:prefLabel>
+    <skos:altLabel>new-delhi-india</skos:altLabel>
+    <skos:altLabel>newdelhi(india)</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/places' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/b/bombs-and-explosives' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/m/mosques' />
+    </skos:related>
+  </nyt:place>
+  <del:tag rdf:about='http://del.icio.us/tag/newdelhi(india)'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/places/n/new-delhi-india' />
+  </del:tag>
+  <nyt:place rdf:about='http://aaronland.info/nytimes/knows/places/s/south-korea'>
+    <skos:prefLabel>South Korea</skos:prefLabel>
+    <skos:altLabel>south-korea</skos:altLabel>
+    <skos:altLabel>southkorea</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/places' />
+    <geo:Point rdf:parseType='Resource'>
+      <geo:lat>37.0000</geo:lat>
+      <geo:long>127.5000</geo:long>
+    </geo:Point>
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/c/computer-chips' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/c/company-reports' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/s/samsung-electronics-co' />
+    </skos:related>
+  </nyt:place>
+  <del:tag rdf:about='http://del.icio.us/tag/southkorea'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/places/s/south-korea' />
+  </del:tag>
+  <nyt:place rdf:about='http://aaronland.info/nytimes/knows/places/k/kyrgyzstan'>
+    <skos:prefLabel>Kyrgyzstan</skos:prefLabel>
+    <skos:altLabel>kyrgyzstan</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/places' />
+    <geo:Point rdf:parseType='Resource'>
+      <geo:lat>41.0000</geo:lat>
+      <geo:long>75.0000</geo:long>
+    </geo:Point>
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/a/assassinations-and-attempted-assassinations' />
+    </skos:related>
+  </nyt:place>
+  <del:tag rdf:about='http://del.icio.us/tag/kyrgyzstan'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/places/k/kyrgyzstan' />
+  </del:tag>
+  <nyt:place rdf:about='http://aaronland.info/nytimes/knows/places/k/kosovo-serbia'>
+    <skos:prefLabel>Kosovo (Serbia)</skos:prefLabel>
+    <skos:altLabel>kosovo-serbia</skos:altLabel>
+    <skos:altLabel>kosovo(serbia)</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/places' />
+    <geo:Point rdf:parseType='Resource'>
+      <geo:lat>42.5833</geo:lat>
+      <geo:long>21.0000</geo:long>
+    </geo:Point>
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/d/deaths-obituaries' />
+    </skos:related>
+  </nyt:place>
+  <del:tag rdf:about='http://del.icio.us/tag/kosovo(serbia)'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/places/k/kosovo-serbia' />
+  </del:tag>
+  <nyt:place rdf:about='http://aaronland.info/nytimes/knows/places/g/gaza-strip'>
+    <skos:prefLabel>Gaza Strip</skos:prefLabel>
+    <skos:altLabel>gaza-strip</skos:altLabel>
+    <skos:altLabel>gazastrip</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/places' />
+    <geo:Point rdf:parseType='Resource'>
+      <geo:lat>31.4167</geo:lat>
+      <geo:long>34.3333</geo:long>
+    </geo:Point>
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/v/violence' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/p/palestinians' />
+    </skos:related>
+  </nyt:place>
+  <del:tag rdf:about='http://del.icio.us/tag/gazastrip'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/places/g/gaza-strip' />
+  </del:tag>
+  <nyt:place rdf:about='http://aaronland.info/nytimes/knows/places/i/israel'>
+    <skos:prefLabel>Israel</skos:prefLabel>
+    <skos:altLabel>israel</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/places' />
+    <geo:Point rdf:parseType='Resource'>
+      <geo:lat>31.5000</geo:lat>
+      <geo:long>34.7500</geo:long>
+    </geo:Point>
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:person rdf:resource='http://aaronland.info/nytimes/knows/people/a/ahmadinejad-mahmoud' />
+    </skos:related>
+  </nyt:place>
+  <del:tag rdf:about='http://del.icio.us/tag/israel'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/places/i/israel' />
+  </del:tag>
+  <nyt:place rdf:about='http://aaronland.info/nytimes/knows/places/i/india'>
+    <skos:prefLabel>India</skos:prefLabel>
+    <skos:altLabel>india</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/places' />
+    <geo:Point rdf:parseType='Resource'>
+      <geo:lat>20.0000</geo:lat>
+      <geo:long>77.0000</geo:long>
+    </geo:Point>
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/l/labor' />
+    </skos:related>
+  </nyt:place>
+  <del:tag rdf:about='http://del.icio.us/tag/india'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/places/i/india' />
+  </del:tag>
+  <nyt:place rdf:about='http://aaronland.info/nytimes/knows/places/a/afghanistan'>
+    <skos:prefLabel>Afghanistan</skos:prefLabel>
+    <skos:altLabel>afghanistan</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/places' />
+    <geo:Point rdf:parseType='Resource'>
+      <geo:lat>33.0000</geo:lat>
+      <geo:long>65.0000</geo:long>
+    </geo:Point>
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/u/united-states-armament-and-defense' />
+    </skos:related>
+  </nyt:place>
+  <del:tag rdf:about='http://del.icio.us/tag/afghanistan'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/places/a/afghanistan' />
+  </del:tag>
+  <nyt:place rdf:about='http://aaronland.info/nytimes/knows/places/b/boston-mass'>
+    <skos:prefLabel>Boston (Mass)</skos:prefLabel>
+    <skos:altLabel>boston-mass</skos:altLabel>
+    <skos:altLabel>boston(mass)</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/places' />
+    <geo:Point rdf:parseType='Resource'>
+      <geo:lat>42.358</geo:lat>
+      <geo:long>-71.060</geo:long>
+    </geo:Point>
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/m/marathon-running' />
+    </skos:related>
+  </nyt:place>
+  <del:tag rdf:about='http://del.icio.us/tag/boston(mass)'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/places/b/boston-mass' />
+  </del:tag>
+  <nyt:place rdf:about='http://aaronland.info/nytimes/knows/places/n/new-orleans-la'>
+    <skos:prefLabel>New Orleans (La)</skos:prefLabel>
+    <skos:altLabel>new-orleans-la</skos:altLabel>
+    <skos:altLabel>neworleans(la)</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/places' />
+    <geo:Point rdf:parseType='Resource'>
+      <geo:lat>29.954</geo:lat>
+      <geo:long>-90.075</geo:long>
+    </geo:Point>
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/t/television' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/e/earthquakes' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/d/documentary-films-and-programs' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/n/national-geographic-channel' />
+    </skos:related>
+  </nyt:place>
+  <del:tag rdf:about='http://del.icio.us/tag/neworleans(la)'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/places/n/new-orleans-la' />
+  </del:tag>
+  <nyt:person rdf:about='http://aaronland.info/nytimes/knows/people/r/riggio-stephen'>
+    <skos:prefLabel>Riggio, Stephen</skos:prefLabel>
+    <skos:altLabel>riggio-stephen</skos:altLabel>
+    <skos:altLabel>riggio,stephen</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/people' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/r/retail-stores-and-trade' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/b/books-and-literature' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/b/barnes-noble-incorporated' />
+    </skos:related>
+  </nyt:person>
+  <del:tag rdf:about='http://del.icio.us/tag/riggio,stephen'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/people/r/riggio-stephen' />
+  </del:tag>
+  <nyt:person rdf:about='http://aaronland.info/nytimes/knows/people/k/keller-kasey'>
+    <skos:prefLabel>Keller, Kasey</skos:prefLabel>
+    <skos:altLabel>keller-kasey</skos:altLabel>
+    <skos:altLabel>keller,kasey</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/people' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/w/world-cup-soccer' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/s/soccer' />
+    </skos:related>
+  </nyt:person>
+  <del:tag rdf:about='http://del.icio.us/tag/keller,kasey'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/people/k/keller-kasey' />
+  </del:tag>
+  <nyt:person rdf:about='http://aaronland.info/nytimes/knows/people/l/lieberman-joseph-i'>
+    <skos:prefLabel>Lieberman, Joseph I</skos:prefLabel>
+    <skos:altLabel>lieberman-joseph-i</skos:altLabel>
+    <skos:altLabel>lieberman,josephi</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/people' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:place rdf:resource='http://aaronland.info/nytimes/knows/places/c/connecticut' />
+    </skos:related>
+  </nyt:person>
+  <del:tag rdf:about='http://del.icio.us/tag/lieberman,josephi'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/people/l/lieberman-joseph-i' />
+  </del:tag>
+  <nyt:person rdf:about='http://aaronland.info/nytimes/knows/people/r/randolph-eleanor'>
+    <skos:prefLabel>Randolph, Eleanor</skos:prefLabel>
+    <skos:altLabel>randolph-eleanor</skos:altLabel>
+    <skos:altLabel>randolph,eleanor</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/people' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/a/animals' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/c/cats' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/n/news-and-news-media' />
+    </skos:related>
+  </nyt:person>
+  <del:tag rdf:about='http://del.icio.us/tag/randolph,eleanor'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/people/r/randolph-eleanor' />
+  </del:tag>
+  <nyt:person rdf:about='http://aaronland.info/nytimes/knows/people/s/stiefel-ethan'>
+    <skos:prefLabel>Stiefel, Ethan</skos:prefLabel>
+    <skos:altLabel>stiefel-ethan</skos:altLabel>
+    <skos:altLabel>stiefel,ethan</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/people' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/d/dancing' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/a/american-ballet-theater' />
+    </skos:related>
+  </nyt:person>
+  <del:tag rdf:about='http://del.icio.us/tag/stiefel,ethan'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/people/s/stiefel-ethan' />
+  </del:tag>
+  <nyt:person rdf:about='http://aaronland.info/nytimes/knows/people/v/viesturs-ed'>
+    <skos:prefLabel>Viesturs, Ed</skos:prefLabel>
+    <skos:altLabel>viesturs-ed</skos:altLabel>
+    <skos:altLabel>viesturs,ed</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/people' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/m/mountain-climbing' />
+    </skos:related>
+  </nyt:person>
+  <del:tag rdf:about='http://del.icio.us/tag/viesturs,ed'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/people/v/viesturs-ed' />
+  </del:tag>
+  <nyt:person rdf:about='http://aaronland.info/nytimes/knows/people/f/furyk-jim'>
+    <skos:prefLabel>Furyk, Jim</skos:prefLabel>
+    <skos:altLabel>furyk-jim</skos:altLabel>
+    <skos:altLabel>furyk,jim</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/people' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/g/golf' />
+    </skos:related>
+  </nyt:person>
+  <del:tag rdf:about='http://del.icio.us/tag/furyk,jim'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/people/f/furyk-jim' />
+  </del:tag>
+  <nyt:person rdf:about='http://aaronland.info/nytimes/knows/people/a/alarian-sami'>
+    <skos:prefLabel>Al-Arian, Sami</skos:prefLabel>
+    <skos:altLabel>alarian-sami</skos:altLabel>
+    <skos:altLabel>al-arian,sami</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/people' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/t/terrorism' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/d/deportation' />
+    </skos:related>
+  </nyt:person>
+  <del:tag rdf:about='http://del.icio.us/tag/al-arian,sami'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/people/a/alarian-sami' />
+  </del:tag>
+  <nyt:person rdf:about='http://aaronland.info/nytimes/knows/people/b/brown-larry'>
+    <skos:prefLabel>Brown, Larry</skos:prefLabel>
+    <skos:altLabel>brown-larry</skos:altLabel>
+    <skos:altLabel>brown,larry</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/people' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/b/basketball' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/n/new-york-knicks' />
+    </skos:related>
+  </nyt:person>
+  <del:tag rdf:about='http://del.icio.us/tag/brown,larry'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/people/b/brown-larry' />
+  </del:tag>
+  <nyt:person rdf:about='http://aaronland.info/nytimes/knows/people/b/balanchine-george'>
+    <skos:prefLabel>Balanchine, George</skos:prefLabel>
+    <skos:altLabel>balanchine-george</skos:altLabel>
+    <skos:altLabel>balanchine,george</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/people' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/c/classical-music' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/d/dancing' />
+    </skos:related>
+  </nyt:person>
+  <del:tag rdf:about='http://del.icio.us/tag/balanchine,george'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/people/b/balanchine-george' />
+  </del:tag>
+  <nyt:person rdf:about='http://aaronland.info/nytimes/knows/people/o/oliver-darren'>
+    <skos:prefLabel>Oliver, Darren</skos:prefLabel>
+    <skos:altLabel>oliver-darren</skos:altLabel>
+    <skos:altLabel>oliver,darren</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/people' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/b/baseball' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/n/new-york-mets' />
+    </skos:related>
+  </nyt:person>
+  <del:tag rdf:about='http://del.icio.us/tag/oliver,darren'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/people/o/oliver-darren' />
+  </del:tag>
+  <nyt:person rdf:about='http://aaronland.info/nytimes/knows/people/r/rumsfeld-donald-h'>
+    <skos:prefLabel>Rumsfeld, Donald H</skos:prefLabel>
+    <skos:altLabel>rumsfeld-donald-h</skos:altLabel>
+    <skos:altLabel>rumsfeld,donaldh</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/people' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/p/politics-and-government' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/u/united-states-armament-and-defense' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/a/armament-defense-and-military-forces' />
+      <nyt:place rdf:resource='http://aaronland.info/nytimes/knows/places/i/iraq' />
+    </skos:related>
+  </nyt:person>
+  <del:tag rdf:about='http://del.icio.us/tag/rumsfeld,donaldh'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/people/r/rumsfeld-donald-h' />
+  </del:tag>
+  <nyt:person rdf:about='http://aaronland.info/nytimes/knows/people/j/johnson-randy'>
+    <skos:prefLabel>Johnson, Randy</skos:prefLabel>
+    <skos:altLabel>johnson-randy</skos:altLabel>
+    <skos:altLabel>johnson,randy</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/people' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/b/baseball' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/n/new-york-yankees' />
+    </skos:related>
+  </nyt:person>
+  <del:tag rdf:about='http://del.icio.us/tag/johnson,randy'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/people/j/johnson-randy' />
+  </del:tag>
+  <nyt:person rdf:about='http://aaronland.info/nytimes/knows/people/t/thain-john-a'>
+    <skos:prefLabel>Thain, John A</skos:prefLabel>
+    <skos:altLabel>thain-john-a</skos:altLabel>
+    <skos:altLabel>thain,johna</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/people' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/n/new-york-stock-exchange-the' />
+    </skos:related>
+  </nyt:person>
+  <del:tag rdf:about='http://del.icio.us/tag/thain,johna'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/people/t/thain-john-a' />
+  </del:tag>
+  <nyt:person rdf:about='http://aaronland.info/nytimes/knows/people/p/provenzano-bernardo'>
+    <skos:prefLabel>Provenzano, Bernardo</skos:prefLabel>
+    <skos:altLabel>provenzano-bernardo</skos:altLabel>
+    <skos:altLabel>provenzano,bernardo</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/people' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/o/organized-crime' />
+      <nyt:place rdf:resource='http://aaronland.info/nytimes/knows/places/i/italy' />
+    </skos:related>
+  </nyt:person>
+  <del:tag rdf:about='http://del.icio.us/tag/provenzano,bernardo'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/people/p/provenzano-bernardo' />
+  </del:tag>
+  <nyt:person rdf:about='http://aaronland.info/nytimes/knows/people/k/khashoggi-adnan'>
+    <skos:prefLabel>Khashoggi, Adnan</skos:prefLabel>
+    <skos:altLabel>khashoggi-adnan</skos:altLabel>
+    <skos:altLabel>khashoggi,adnan</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/people' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/s/suits-and-litigation' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/s/securities-and-commodities-violations' />
+    </skos:related>
+  </nyt:person>
+  <del:tag rdf:about='http://del.icio.us/tag/khashoggi,adnan'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/people/k/khashoggi-adnan' />
+  </del:tag>
+  <nyt:person rdf:about='http://aaronland.info/nytimes/knows/people/r/romney-mitt'>
+    <skos:prefLabel>Romney, Mitt</skos:prefLabel>
+    <skos:altLabel>romney-mitt</skos:altLabel>
+    <skos:altLabel>romney,mitt</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/people' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/h/health-insurance-and-managed-care' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/m/medicine-and-health' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/i/insurance' />
+      <nyt:place rdf:resource='http://aaronland.info/nytimes/knows/places/m/massachusetts' />
+    </skos:related>
+  </nyt:person>
+  <del:tag rdf:about='http://del.icio.us/tag/romney,mitt'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/people/r/romney-mitt' />
+  </del:tag>
+  <nyt:person rdf:about='http://aaronland.info/nytimes/knows/people/t/taylor-sean'>
+    <skos:prefLabel>Taylor, Sean</skos:prefLabel>
+    <skos:altLabel>taylor-sean</skos:altLabel>
+    <skos:altLabel>taylor,sean</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/people' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/f/football' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/w/washington-redskins' />
+    </skos:related>
+  </nyt:person>
+  <del:tag rdf:about='http://del.icio.us/tag/taylor,sean'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/people/t/taylor-sean' />
+  </del:tag>
+  <nyt:person rdf:about='http://aaronland.info/nytimes/knows/people/a/ahmadinejad-mahmoud'>
+    <skos:prefLabel>Ahmadinejad, Mahmoud</skos:prefLabel>
+    <skos:altLabel>ahmadinejad-mahmoud</skos:altLabel>
+    <skos:altLabel>ahmadinejad,mahmoud</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/people' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:place rdf:resource='http://aaronland.info/nytimes/knows/places/i/israel' />
+    </skos:related>
+  </nyt:person>
+  <del:tag rdf:about='http://del.icio.us/tag/ahmadinejad,mahmoud'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/people/a/ahmadinejad-mahmoud' />
+  </del:tag>
+  <nyt:person rdf:about='http://aaronland.info/nytimes/knows/people/b/brenner-barbara-a'>
+    <skos:prefLabel>Brenner, Barbara A</skos:prefLabel>
+    <skos:altLabel>brenner-barbara-a</skos:altLabel>
+    <skos:altLabel>brenner,barbaraa</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/people' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/c/cancer' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/b/breast' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/c/chemotherapy' />
+    </skos:related>
+  </nyt:person>
+  <del:tag rdf:about='http://del.icio.us/tag/brenner,barbaraa'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/people/b/brenner-barbara-a' />
+  </del:tag>
+  <nyt:person rdf:about='http://aaronland.info/nytimes/knows/people/b/beckett-samuel'>
+    <skos:prefLabel>Beckett, Samuel</skos:prefLabel>
+    <skos:altLabel>beckett-samuel</skos:altLabel>
+    <skos:altLabel>beckett,samuel</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/people' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/t/theater' />
+    </skos:related>
+  </nyt:person>
+  <del:tag rdf:about='http://del.icio.us/tag/beckett,samuel'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/people/b/beckett-samuel' />
+  </del:tag>
+  <nyt:person rdf:about='http://aaronland.info/nytimes/knows/people/d/devecchio-r-lindley'>
+    <skos:prefLabel>DeVecchio, R Lindley</skos:prefLabel>
+    <skos:altLabel>devecchio-r-lindley</skos:altLabel>
+    <skos:altLabel>devecchio,rlindley</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/people' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/o/organized-crime' />
+    </skos:related>
+  </nyt:person>
+  <del:tag rdf:about='http://del.icio.us/tag/devecchio,rlindley'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/people/d/devecchio-r-lindley' />
+  </del:tag>
+  <nyt:person rdf:about='http://aaronland.info/nytimes/knows/people/b/bonds-barry'>
+    <skos:prefLabel>Bonds, Barry</skos:prefLabel>
+    <skos:altLabel>bonds-barry</skos:altLabel>
+    <skos:altLabel>bonds,barry</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/people' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/s/steroids' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/b/baseball' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/s/san-francisco-giants' />
+    </skos:related>
+  </nyt:person>
+  <del:tag rdf:about='http://del.icio.us/tag/bonds,barry'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/people/b/bonds-barry' />
+  </del:tag>
+  <nyt:person rdf:about='http://aaronland.info/nytimes/knows/people/b/bush-laura'>
+    <skos:prefLabel>Bush, Laura</skos:prefLabel>
+    <skos:altLabel>bush-laura</skos:altLabel>
+    <skos:altLabel>bush,laura</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/people' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/f/federal-taxes-us' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/w/wages-and-salaries' />
+    </skos:related>
+  </nyt:person>
+  <del:tag rdf:about='http://del.icio.us/tag/bush,laura'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/people/b/bush-laura' />
+  </del:tag>
+  <nyt:person rdf:about='http://aaronland.info/nytimes/knows/people/p/pollan-michael'>
+    <skos:prefLabel>Pollan, Michael</skos:prefLabel>
+    <skos:altLabel>pollan-michael</skos:altLabel>
+    <skos:altLabel>pollan,michael</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/people' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/c/computers-and-the-internet' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/c/corn' />
+    </skos:related>
+  </nyt:person>
+  <del:tag rdf:about='http://del.icio.us/tag/pollan,michael'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/people/p/pollan-michael' />
+  </del:tag>
+  <nyt:person rdf:about='http://aaronland.info/nytimes/knows/people/h/hassabi-maria'>
+    <skos:prefLabel>Hassabi, Maria</skos:prefLabel>
+    <skos:altLabel>hassabi-maria</skos:altLabel>
+    <skos:altLabel>hassabi,maria</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/people' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/d/dancing' />
+    </skos:related>
+  </nyt:person>
+  <del:tag rdf:about='http://del.icio.us/tag/hassabi,maria'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/people/h/hassabi-maria' />
+  </del:tag>
+  <nyt:person rdf:about='http://aaronland.info/nytimes/knows/people/b/berlusconi-silvio'>
+    <skos:prefLabel>Berlusconi, Silvio</skos:prefLabel>
+    <skos:altLabel>berlusconi-silvio</skos:altLabel>
+    <skos:altLabel>berlusconi,silvio</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/people' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/e/elections' />
+      <nyt:place rdf:resource='http://aaronland.info/nytimes/knows/places/i/italy' />
+    </skos:related>
+  </nyt:person>
+  <del:tag rdf:about='http://del.icio.us/tag/berlusconi,silvio'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/people/b/berlusconi-silvio' />
+  </del:tag>
+  <nyt:person rdf:about='http://aaronland.info/nytimes/knows/people/r/raymond-lee-r'>
+    <skos:prefLabel>Raymond, Lee R</skos:prefLabel>
+    <skos:altLabel>raymond-lee-r</skos:altLabel>
+    <skos:altLabel>raymond,leer</skos:altLabel>
+    <skos:broader rdf:resource='http://aaronland.info/nytimes/knows/people' />
+    <dc:isReferencedBy rdf:parseType='Resource' />
+    <skos:related rdf:parseType='Resource'>
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/w/wages-and-salaries' />
+      <nyt:idea rdf:resource='http://aaronland.info/nytimes/knows/ideas/o/oil-petroleum-and-gasoline' />
+      <nyt:organization rdf:resource='http://aaronland.info/nytimes/knows/organizations/e/exxon-mobil-corporation' />
+    </skos:related>
+  </nyt:person>
+  <del:tag rdf:about='http://del.icio.us/tag/raymond,leer'>
+    <rdfs:seeAlso rdf:resource='http://aaronland.info/nytimes/knows/people/r/raymond-lee-r' />
+  </del:tag>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/theo-emery'>
+    <foaf:Name>Emery Theo</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/andrew-powell-robert'>
+    <foaf:Name>Robert Andrew Powell</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/fathi-nazila'>
+    <foaf:Name>Nazila Fathi</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/brozan-nadine'>
+    <foaf:Name>Nadine Brozan</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/shpigel-ben'>
+    <foaf:Name>Ben Shpigel</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/fisher-ian'>
+    <foaf:Name>Ian Fisher</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/rosenthal-elisabeth'>
+    <foaf:Name>Elisabeth Rosenthal</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/archibold-randal'>
+    <foaf:Name>Randal Archibold</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/deutsch-claudia'>
+    <foaf:Name>Claudia Deutsch</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/associated-press-the'>
+    <foaf:Name>Press The Associated</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/genzlinger-neil'>
+    <foaf:Name>Neil Genzlinger</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/robbins-lizbeck-howard'>
+    <foaf:Name>Howard Robbins Liz;Beck</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/gates-anita'>
+    <foaf:Name>Anita Gates</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/steinfels-peter'>
+    <foaf:Name>Peter Steinfels</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/brown-paul'>
+    <foaf:Name>Paul Brown</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/norris-floyd'>
+    <foaf:Name>Floyd Norris</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/nytimescom'>
+    <foaf:Name>nytimes.com</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/phillips-kate'>
+    <foaf:Name>Kate Phillips</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/bangs-richard'>
+    <foaf:Name>Richard Bangs</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/hicks-jonathan'>
+    <foaf:Name>Jonathan Hicks</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/smothers-ronald'>
+    <foaf:Name>Ronald Smothers</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/lacey-marc'>
+    <foaf:Name>Marc Lacey</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/hartocollis-anemona'>
+    <foaf:Name>Anemona Hartocollis</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/wilenskylanford-ethan'>
+    <foaf:Name>Ethan Wilensky-lanford</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/jaworowski-ken'>
+    <foaf:Name>Ken Jaworowski</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/finley-bill'>
+    <foaf:Name>Bill Finley</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/stein-mark'>
+    <foaf:Name>Mark Stein</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/kifner-john'>
+    <foaf:Name>John Kifner</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/bailey-jeff'>
+    <foaf:Name>Jeff Bailey</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/news-bloomberg'>
+    <foaf:Name>Bloomberg News</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/mouawad-jad'>
+    <foaf:Name>Jad Mouawad</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/darlin-damon'>
+    <foaf:Name>Damon Darlin</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/alder-phillip'>
+    <foaf:Name>Phillip Alder</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/povoledo-elisabetta'>
+    <foaf:Name>Elisabetta Povoledo</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/austen-ian'>
+    <foaf:Name>Ian Austen</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/mitchell-dan'>
+    <foaf:Name>Dan Mitchell</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/files-john'>
+    <foaf:Name>John Files</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/dillon-sam'>
+    <foaf:Name>Sam Dillon</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/smith-craig'>
+    <foaf:Name>Craig Smith</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/borzi-pat'>
+    <foaf:Name>Pat Borzi</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/ramirez-anthony'>
+    <foaf:Name>Anthony Ramirez</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/barbaro-michael'>
+    <foaf:Name>Michael Barbaro</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/yardley-william'>
+    <foaf:Name>William Yardley</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/rutenberg-jimmazzetti-mark'>
+    <foaf:Name>Mark Rutenberg Jim;Mazzetti</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/weisman-steven'>
+    <foaf:Name>Steven Weisman</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/feuer-alan'>
+    <foaf:Name>Alan Feuer</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/litsky-frank'>
+    <foaf:Name>Frank Litsky</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/preston-julia'>
+    <foaf:Name>Julia Preston</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/ramirez-anthonywhitt-toni'>
+    <foaf:Name>Toni Ramirez Anthony;Whitt</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/vogel-carol'>
+    <foaf:Name>Carol Vogel</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/fahim-kareem'>
+    <foaf:Name>Kareem Fahim</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/kelley-tina'>
+    <foaf:Name>Tina Kelley</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/rockwell-john'>
+    <foaf:Name>John Rockwell</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/picker-david'>
+    <foaf:Name>David Picker</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/stanley-alessandra'>
+    <foaf:Name>Alessandra Stanley</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/schweber-nate'>
+    <foaf:Name>Nate Schweber</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/la-rocco-claudia'>
+    <foaf:Name>Claudia La Rocco</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/fackler-martin'>
+    <foaf:Name>Martin Fackler</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/maynard-micheline'>
+    <foaf:Name>Micheline Maynard</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/cooper-michael'>
+    <foaf:Name>Michael Cooper</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/new-york-times-the'>
+    <foaf:Name>Times The New York</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/dunlap-david'>
+    <foaf:Name>David Dunlap</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/curry-jack'>
+    <foaf:Name>Jack Curry</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/de-aenlle-conrad'>
+    <foaf:Name>Conrad De Aenlle</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/shenon-philip'>
+    <foaf:Name>Philip Shenon</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/lavery-brian'>
+    <foaf:Name>Brian Lavery</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/lohr-steve'>
+    <foaf:Name>Steve Lohr</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/wakin-daniel'>
+    <foaf:Name>Daniel Wakin</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/bernstein-viv'>
+    <foaf:Name>Viv Bernstein</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/pearce-jeremy'>
+    <foaf:Name>Jeremy Pearce</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/sengupta-somini'>
+    <foaf:Name>Somini Sengupta</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/bonner-raymond'>
+    <foaf:Name>Raymond Bonner</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/gall-carlotta'>
+    <foaf:Name>Carlotta Gall</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/tugend-alina'>
+    <foaf:Name>Alina Tugend</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/siegal-nina'>
+    <foaf:Name>Nina Siegal</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/semple-kirk'>
+    <foaf:Name>Kirk Semple</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/sanneh-kelefa'>
+    <foaf:Name>Kelefa Sanneh</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/davey-monica'>
+    <foaf:Name>Monica Davey</foaf:Name>
+  </nyt:author>
+  <nyt:author rdf:about='http://aaronland.info/nytimes/knows/author/kumar-harisengupta-somini'>
+    <foaf:Name>Somini Kumar Hari;Sengupta</foaf:Name>
+  </nyt:author>
+  <rdf:Description rdf:about='http://aaronland.info/nytimes#author'>
+    <rdfs:subClassOf rdf:resource='http://xmlns.com/foaf/0.1/Person' />
+  </rdf:Description>
+  <rdf:Description rdf:about='http://aaronland.info/nytimes#keywords'>
+    <rdfs:subClassOf rdf:resource='http://www.w3.org/2004/02/skos/core#Concept' />
+  </rdf:Description>
+  <rdf:Description rdf:about='http://aaronland.info/nytimes#idea'>
+    <rdfs:subClassOf rdf:resource='http://www.w3.org/2004/02/skos/core#Concept' />
+  </rdf:Description>
+  <rdf:Description rdf:about='http://aaronland.info/nytimes#geo'>
+    <rdfs:subClassOf rdf:resource='http://www.w3.org/2004/02/skos/core#Concept' />
+  </rdf:Description>
+  <rdf:Description rdf:about='http://aaronland.info/nytimes#place'>
+    <rdfs:subClassOf rdf:resource='http://www.w3.org/2004/02/skos/core#Concept' />
+  </rdf:Description>
+  <rdf:Description rdf:about='http://aaronland.info/nytimes#org'>
+    <rdfs:subClassOf rdf:resource='http://www.w3.org/2004/02/skos/core#Concept' />
+  </rdf:Description>
+  <rdf:Description rdf:about='http://aaronland.info/nytimes#organization'>
+    <rdfs:subClassOf rdf:resource='http://www.w3.org/2004/02/skos/core#Concept' />
+  </rdf:Description>
+  <rdf:Description rdf:about='http://aaronland.info/nytimes#per'>
+    <rdfs:subClassOf rdf:resource='http://www.w3.org/2004/02/skos/core#Concept' />
+  </rdf:Description>
+  <rdf:Description rdf:about='http://aaronland.info/nytimes#person'>
+    <rdfs:subClassOf rdf:resource='http://www.w3.org/2004/02/skos/core#Concept' />
+  </rdf:Description>
+</rdf:RDF>

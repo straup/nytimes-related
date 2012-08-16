@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='ISO-8859-1'?><rdf:RDF xmlns:nyt='http://aaronland.info/nytimes#' xmlns:geo='http://www.w3.org/2003/01/geo/wgs84_pos#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:skos='http://www.w3.org/2004/02/skos/core#' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:foaf='http://xmlns.com/foaf/0.1/' xmlns:dc='http://purl.org/dc/elements/1.1/' xmlns:del='http://del.icio.us/'>
+  <rdf:Description rdf:about='http://aaronland.info/nytimes/related/2008/08/13/index.rdf'>
+    <dc:title>Who&apos;s on first at the New York Times</dc:title>
+    <dc:date>2008-08-13</dc:date>
+    <dc:created>2008-08-13T05:00:04-07:00</dc:created>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://aaronland.info/nytimes#author'>
+    <rdfs:subClassOf rdf:resource='http://xmlns.com/foaf/0.1/Person' />
+  </rdf:Description>
+  <rdf:Description rdf:about='http://aaronland.info/nytimes#keywords'>
+    <rdfs:subClassOf rdf:resource='http://www.w3.org/2004/02/skos/core#Concept' />
+  </rdf:Description>
+  <rdf:Description rdf:about='http://aaronland.info/nytimes#idea'>
+    <rdfs:subClassOf rdf:resource='http://www.w3.org/2004/02/skos/core#Concept' />
+  </rdf:Description>
+  <rdf:Description rdf:about='http://aaronland.info/nytimes#geo'>
+    <rdfs:subClassOf rdf:resource='http://www.w3.org/2004/02/skos/core#Concept' />
+  </rdf:Description>
+  <rdf:Description rdf:about='http://aaronland.info/nytimes#place'>
+    <rdfs:subClassOf rdf:resource='http://www.w3.org/2004/02/skos/core#Concept' />
+  </rdf:Description>
+  <rdf:Description rdf:about='http://aaronland.info/nytimes#org'>
+    <rdfs:subClassOf rdf:resource='http://www.w3.org/2004/02/skos/core#Concept' />
+  </rdf:Description>
+  <rdf:Description rdf:about='http://aaronland.info/nytimes#organization'>
+    <rdfs:subClassOf rdf:resource='http://www.w3.org/2004/02/skos/core#Concept' />
+  </rdf:Description>
+  <rdf:Description rdf:about='http://aaronland.info/nytimes#per'>
+    <rdfs:subClassOf rdf:resource='http://www.w3.org/2004/02/skos/core#Concept' />
+  </rdf:Description>
+  <rdf:Description rdf:about='http://aaronland.info/nytimes#person'>
+    <rdfs:subClassOf rdf:resource='http://www.w3.org/2004/02/skos/core#Concept' />
+  </rdf:Description>
+</rdf:RDF>
