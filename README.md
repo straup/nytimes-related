@@ -25,4 +25,4 @@ I have no excuses. Some of the data is probably garbled beyond recognition at
 this point. I suppose it would be possible to recrawl the New York Times website
 to fix those mistakes but I haven't done that, ever.
 
-I'm sorry.
+I'm sorry. Luminoso's [Fixing common Unicode mistakes with Python â€” after they’ve been made](http://blog.lumino.so/2012/08/20/fix-unicode-mistakes-with-python/) might fix some of the problems (maybe?) but I have not tried this yet... 
