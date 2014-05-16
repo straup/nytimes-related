@@ -3,7 +3,7 @@ nytimes-related
 
 These are the source RDF files used to generate the [Who's on First (at the New
 York Times)](http://aaronland.info/nytimes/related/) webpages between 2006 and
-2010.
+2010. _As of this writing that link (to the "Who's on First" pages is broken because I am a space cadet. It will be fixed shortly..._
 
 These are _not_ the actual articles as published by the New York Times but
 instead the metadata about each article (authors, subjects, locations, etc.)
